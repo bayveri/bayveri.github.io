@@ -16,7 +16,10 @@ common-js:
 
 <!DOCTYPE html>
 <html lang="en">
- <style type="text/css" media="screen"> 
+
+  {% include head.html %}
+
+   <style type="text/css" media="screen"> 
  <div class="matrix">
 .matrix { 
   height: 200px; 
@@ -165,9 +168,8 @@ for (let i = 0; i < 50; ++i) {
 
 </script>
       </div>
-
-  {% include head.html %}
-
+  
+  
   <body>
     
     {% include gtm_body.html %}
