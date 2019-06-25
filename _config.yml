@@ -21,10 +21,8 @@ description: BayVeri
 # List of links in the navigation bar
 navbar-links:
   Home: "https://bayveri.github.io/"
-  About Me:
-    - Education: "education"
-    - Experience: "aboutme"
-    - Profession: "profession"
+  My Timeline: "timeline"
+  Specilisations: "qualifications"
   Portfolio: "myworks"
   Verianaliz: "https://www.verianaliz.net"
 
