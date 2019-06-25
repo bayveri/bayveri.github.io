@@ -315,9 +315,11 @@ body {
 
 	<!-- Item 1 -->
 	<li>
+	<a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
+	
 		<div class="direction-r">
 		
-		<a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
+		
 		
 			<div class="flag-wrapper">
 				<span class="flag">VeriAnaliz.net - Founder</span>
