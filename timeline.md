@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Timeline
-subtitle: From the latest to earlier you can scrool down and learn more about me.
+subtitle: From the latest to earlier, you can scroll down and learn more about me.
 ---
 
 <html lang="en" >
