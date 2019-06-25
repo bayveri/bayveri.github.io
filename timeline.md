@@ -316,7 +316,7 @@ body {
 	<!-- Item 1 -->
 <li>
 	
-	<a href="https://verianaliz.net" style="margin: auto 55%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
+	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -352,7 +352,7 @@ body {
 	<!-- Item 3 -->
 	<li>
 	
-	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 50%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
+	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
 		<div class="direction-r">
 		
 			<div class="flag-wrapper">
@@ -366,7 +366,7 @@ body {
 		<!-- Item 4 -->
 	<li>
 	  
-	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 40%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
+	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 30%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
 	  <br>	
 		<div class="direction-l">
 			<div class="flag-wrapper">
@@ -379,9 +379,10 @@ body {
  
 		<!-- Item 5 -->
 	<li>
-		<div class="direction-r">
-		
-			<a href="http://www.roca.com/" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+	
+	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+	
+		<div class="direction-r"
 		
 			<div class="flag-wrapper">
 				<span class="flag">Roca Sanitario - Finance Asistant</span>
@@ -394,7 +395,7 @@ body {
 			<!-- Item 6 -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 30%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
@@ -407,10 +408,10 @@ body {
 	
 			<!-- Item 7 -->
 	<li>
+	
+	<a href="https://www.atilim.edu.tr/tr" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.atilim.edu.tr/tr','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/atılım.png"/></a>
+	
 		<div class="direction-r">
-		
-		<a href="https://www.atilim.edu.tr/tr" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.atilim.edu.tr/tr','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/atılım.png"/></a>
-		
 			<div class="flag-wrapper">
 				<span class="flag">Atılım University</span>
 				<span class="time-wrapper"><span class="time">2015 - 2016</span></span>
@@ -422,7 +423,7 @@ body {
 				<!-- Item 8 -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 30%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -437,10 +438,9 @@ body {
 	
 				<!-- Item 9 -->
 	<li>
+	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	
 		<div class="direction-r">
-		
-		<a href="https://www.hacettepe.edu.tr/english/" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
-		
 			<div class="flag-wrapper">
 				<span class="flag">Hacettepe University - Hons.B.Sc.</span>
 				<span class="time-wrapper"><span class="time">2009 - 2015</span></span>
