@@ -19,8 +19,8 @@ body {
   
   color: rgb(50,50,50);
   font-family: 'Open Sans', sans-serif;
-  font-size: 130%;
-  line-height: 1.6em;
+  font-size: 140%;
+  line-height: 1.8em;
 }
 
 /* ================ The Timeline ================ */
@@ -161,7 +161,7 @@ body {
   display: inline;
   
   line-height: 1em;
-  font-size: 0.66666em;
+  font-size: 0.9em;
   color: rgb(250,80,80);
   vertical-align: middle;
 }
@@ -183,7 +183,7 @@ body {
 .desc {
   margin: 1em 0.75em 0 0;
   
-  font-size: 1em;
+  font-size: 1.2em;
   font-style: italic;
   line-height: 1.5em;
 }
