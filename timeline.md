@@ -339,8 +339,7 @@ body {
 	<!-- Item 2 -->
 	<li>
 	
-	<a href="http://www.egefinansdernegi.org/" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/efd.png"/></a>
-	<br>
+	<a href="http://www.egefinansdernegi.org/" style="margin: auto 50%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/efd.png"/></a>
 	
 		<div class="direction-l">
 		
