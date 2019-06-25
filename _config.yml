@@ -21,9 +21,10 @@ description: BayVeri
 # List of links in the navigation bar
 navbar-links:
   Home: "https://bayveri.github.io/"
-  My Timeline: "timeline"
+  CV: "cv"
   Specilisations: "qualifications"
   Portfolio: "myworks"
+  Contact Me: "contact"
   Verianaliz: "https://www.verianaliz.net"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -40,7 +41,7 @@ avatar: "/img/avatar-icon.png"
 
 #navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+#navbar-children-col: "#F5F5F5"
 #page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#008000"
