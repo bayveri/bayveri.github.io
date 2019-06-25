@@ -19,7 +19,7 @@ body {
   
   color: rgb(50,50,50);
   font-family: 'Open Sans', sans-serif;
-  font-size: 130%;
+  font-size: 180%;
   line-height: 1.8em;
 }
 
@@ -183,7 +183,7 @@ body {
 .desc {
   margin: 1em 0.75em 0 0;
   
-  font-size: 0.77777em;
+  font-size: 1em;
   font-style: italic;
   line-height: 1.5em;
 }
