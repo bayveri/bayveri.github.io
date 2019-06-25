@@ -324,7 +324,7 @@ body {
 				
 				
 				
-				<span class="time-wrapper"><span class="time">2019 - pres.</span></span>
+				<span class="time-wrapper"><span class="time">2019 - present</span></span>
 				
 				
 				
@@ -358,7 +358,7 @@ body {
 		
 			<div class="flag-wrapper">
 				<span class="flag">Ege University - Scholar </span>
-				<span class="time-wrapper"><span class="time">2018 - pres.</span></span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
 			</div>
 			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
 		</div>
