@@ -381,7 +381,7 @@ body {
 		<div class="direction-r">
 		
 			<div class="flag-wrapper">
-				<span class="flag">Roca Sanitario - Finance Asistant</span>
+				<span class="flag">Roca - Finance Asistant</span>
 				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
 			</div>
 			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
@@ -396,7 +396,7 @@ body {
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">Anadolu University</span>
+				<span class="flag">Anadolu Univ.</span>
 				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
 			</div>
 			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering. I continue my academic career at Ege University as I have beed awarded scholarship.</div>
@@ -425,7 +425,7 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">Anadolu Univiversity - H.B.Econ.</span>
+				<span class="flag">Anadolu Univ. - H.B.Econ.</span>
 				<span class="time-wrapper"><span class="time">2011 - 2015</span></span>
 			</div>
 			<div class="desc"> I started studying Economics second year of my ongoing education in Biology. After the gap year, I took at the beginning of the university, I have already started reading on Economics. I have studied both subject at the same time and I granted honor degree both of them.<br>
@@ -439,7 +439,7 @@ body {
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Hacettepe University - Hons.B.Sc.</span>
+				<span class="flag">Hacettepe Univ. - Hons.B.Sc.</span>
 				<span class="time-wrapper"><span class="time">2009 - 2015</span></span>
 			</div>
 			<div class="desc">I studied Biology. Established Biotechnology Research Student Club with friends. Graduated with first class honour degree (as being a Biologist, have fulfilled my childhood dream). At the same time majored in Economics from Anadolu University.<br>
