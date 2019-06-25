@@ -316,7 +316,7 @@ body {
 	<!-- Item 1 -->
 <li>
 	
-	<center class="time"><a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a></center>
+	<a href="https://verianaliz.net" style="align:center" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
 	
 		<div class="direction-r">
 		
