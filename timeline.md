@@ -299,6 +299,30 @@ body {
 }
 
 }
+ /*hover effect*/
+ a:hover img {
+	opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+ 
+ 
  
  </style>
 
@@ -396,7 +420,7 @@ body {
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">Anadolu Univ.</span>
+				<span class="flag">Anadolu Univ.- PhD</span>
 				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
 			</div>
 			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering. I continue my academic career at Ege University as I have beed awarded scholarship.</div>
