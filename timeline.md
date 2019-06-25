@@ -314,8 +314,9 @@ body {
 <ul class="timeline">
 
 	<!-- Item 1 -->
-	<li>
-	<a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
+<center class="time"><a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a></center>
+
+<li>
 	
 		<div class="direction-r">
 		
