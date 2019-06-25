@@ -336,7 +336,7 @@ body {
 	<!-- Item 2 -->
 	<li>
 	
-	<a href="http://www.egefinansdernegi.org/" style="margin: auto 35%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/efd.png"/></a>
+	<a href="http://www.egefinansdernegi.org/" style="margin: auto 40%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/efd.png"/></a>
 	
 		<div class="direction-l">
 		
@@ -351,9 +351,9 @@ body {
   
 	<!-- Item 3 -->
 	<li>
+	
+	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 50%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
 		<div class="direction-r">
-		
-			<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
 		
 			<div class="flag-wrapper">
 				<span class="flag">Ege University - Scholar </span>
@@ -366,7 +366,7 @@ body {
 		<!-- Item 4 -->
 	<li>
 	  
-	  <a href="https://www.tubitak.gov.tr/" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
+	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 40%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
 	  <br>	
 		<div class="direction-l">
 			<div class="flag-wrapper">
