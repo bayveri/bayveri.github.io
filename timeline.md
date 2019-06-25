@@ -317,7 +317,7 @@ body {
 	<li>
 		<div class="direction-r">
 		
-		<a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/verianaliz.png"/></a>
+		<a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
 		
 			<div class="flag-wrapper">
 				<span class="flag">VeriAnaliz.net - Founder</span>
@@ -336,7 +336,7 @@ body {
 	<!-- Item 2 -->
 	<li>
 	
-	<a href="http://www.egefinansdernegi.org/" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/efd.png"/></a>
+	<a href="http://www.egefinansdernegi.org/" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/efd.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -354,7 +354,7 @@ body {
 	<li>
 		<div class="direction-r">
 		
-			<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="ege.png"/></a>
+			<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
 		
 			<div class="flag-wrapper">
 				<span class="flag">Ege University - Scholar </span>
@@ -367,7 +367,7 @@ body {
 		<!-- Item 4 -->
 	<li>
 	  
-	  <a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="tübitak.png"/></a>
+	  <a href="https://www.tubitak.gov.tr/" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
 	  <br>	
 		<div class="direction-l">
 			<div class="flag-wrapper">
@@ -382,7 +382,7 @@ body {
 	<li>
 		<div class="direction-r">
 		
-			<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="roca.png"/></a>
+			<a href="http://www.roca.com/" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
 		
 			<div class="flag-wrapper">
 				<span class="flag">Roca Sanitario - Finance Asistant</span>
@@ -395,7 +395,7 @@ body {
 			<!-- Item 6 -->
 	<li>
 	
-	<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="anadolu.png"/></a>
+	<a href="https://www.anadolu.edu.tr/en" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
@@ -410,7 +410,7 @@ body {
 	<li>
 		<div class="direction-r">
 		
-		<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="atılım.png"/></a>
+		<a href="https://www.atilim.edu.tr/tr" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.atilim.edu.tr/tr','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/atılım.png"/></a>
 		
 			<div class="flag-wrapper">
 				<span class="flag">Atılım University</span>
@@ -423,7 +423,7 @@ body {
 				<!-- Item 8 -->
 	<li>
 	
-	<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="anadolu.png"/></a>
+	<a href="https://www.anadolu.edu.tr/en" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -440,7 +440,7 @@ body {
 	<li>
 		<div class="direction-r">
 		
-		<a href="https://ege.edu.tr/tr-0/anasayfa.html" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="hacettepe.png"/></a>
+		<a href="https://www.hacettepe.edu.tr/english/" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
 		
 			<div class="flag-wrapper">
 				<span class="flag">Hacettepe University - Hons.B.Sc.</span>
