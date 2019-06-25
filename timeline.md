@@ -315,23 +315,19 @@ body {
 
 	<!-- Item 1 -->
 <li>
-	
 	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">VeriAnaliz.net - Founder</span>
-				
-				
-				
+
 				<span class="time-wrapper"><span class="time">2019 - present</span></span>
-				
-				
-				
+	
 			</div>
 			<div class="desc">My current employment. Way better than the position before!</div>
 		</div>
 	</li>
+  
   
 	<!-- Item 2 -->
 	<li>
@@ -353,8 +349,8 @@ body {
 	<li>
 	
 	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
-		<div class="direction-r">
-		
+
+	<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Ege University - Scholar </span>
 				<span class="time-wrapper"><span class="time">2018 - present</span></span>
@@ -367,7 +363,6 @@ body {
 	<li>
 	  
 	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 30%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
-	  <br>	
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">TÜBİTAK - Data Analyst</span>
@@ -382,13 +377,14 @@ body {
 	
 	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
 	
-		<div class="direction-r"
+		<div class="direction-r">
 		
 			<div class="flag-wrapper">
 				<span class="flag">Roca Sanitario - Finance Asistant</span>
 				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
 			</div>
-			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.</div>
+			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
+			</div>
 		</div>
 	</li>
 	
