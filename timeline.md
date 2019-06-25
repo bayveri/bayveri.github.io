@@ -348,7 +348,7 @@ body {
 				<span class="time-wrapper"><span class="time">2019 - present</span></span>
 	
 			</div>
-			<div class="desc">I have just started the project that will serve everybody who need datascience consulting and it is and will be for free. Every tool used in this project is open source, from the operating system I use to multimedia tools like graphics, data visualisation etc. For more information click the Mr.Data (bayveri in turkish) above.</div>
+			<div class="desc">I have just started the project that will serve everybody who need data science consulting in Turkey. It is and will be for free. Every tool used in this project is open source, from the operating system I use to multimedia tools like graphics, data visualisation etc. For more information click the Mr.Data (bayveri in turkish) above. For whom it may interested in my works around the world please follow us. I will start a smilar project as soon as possible. </div>
 		</div>
 	</li>
   
