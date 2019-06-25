@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline
+title: CV
 subtitle: From the latest to earlier, you can scroll down and learn more about me.
 ---
 
