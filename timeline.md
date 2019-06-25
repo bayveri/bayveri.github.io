@@ -300,7 +300,7 @@ body {
 
 }
  /*hover effect*/
- a:hover img {
+ a:hover img.timelineimage {
 	opacity: 1;
 	-webkit-animation: flash 1.5s;
 	animation: flash 1.5s;
