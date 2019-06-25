@@ -4,8 +4,6 @@ title: Timeline
 subtitle: Let's see 
 ---
 
-
-<!DOCTYPE html>
 <html lang="en" >
 
 <head>
@@ -21,8 +19,8 @@ body {
   
   color: rgb(50,50,50);
   font-family: 'Open Sans', sans-serif;
-  font-size: 112.5%;
-  line-height: 1.6em;
+  font-size: 130%;
+  line-height: 1.8em;
 }
 
 /* ================ The Timeline ================ */
