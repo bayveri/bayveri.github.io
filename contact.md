@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Us!
-subtitle: Please feel free to write us.
+title: Contact Me!
+subtitle: Please feel free to write me.
 ---
 
 <html>
@@ -9,11 +9,11 @@ subtitle: Please feel free to write us.
   <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/bayveri@verianaliz.net" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <input type="text" name="name" id="full-name" placeholder=" " required="yes">
     <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder=" " required="yes">
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder=" " required="yes"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
