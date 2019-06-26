@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: From the latest to earlier, you can scroll down and learn more about me.
+subtitle: Scroll Down And Learn More About Me.
 ---
 
 <html lang="en" >
