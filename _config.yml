@@ -20,7 +20,6 @@ description: BayVeri
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://bayveri.github.io/"
   CV: "cvcv"
   Specialisations: "specialisations"
   Portfolio: "portfolio"
