@@ -22,8 +22,8 @@ description: BayVeri
 navbar-links:
   Home: "https://bayveri.github.io/"
   CV: "cvcv"
-  Specilisations: "qualifications"
-  Portfolio: "myworks"
+  Specialisations: "specialisations"
+  Portfolio: "portfolio"
   Publications: "publications"
   Contact Me: "contact"
 
