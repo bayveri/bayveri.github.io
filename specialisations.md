@@ -414,6 +414,7 @@ body {
 	</li>
 	
 			<!-- Item 6 -->
+			<img class="heading" src="/img/headings2.png"/>
 	<li>
 	
 	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
