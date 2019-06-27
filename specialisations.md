@@ -435,7 +435,7 @@ body {
 
 	<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Java Script</span>
+				<span class="flag">JAVA SCRIPT</span>
 				<span class="time-wrapper"><span class="time">2018 - present</span></span>
 			</div>
 			<div class="desc">Level: Pre-Intermediate <br><img class="levelimage" src="/img/javascript_level.png"/></div>
@@ -537,7 +537,7 @@ body {
 		
 	<!-- MICROSOFT OFFICE -->	
 	<li>
-	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/office.png"/></a>
+	<a href="https://www.office.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.office.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/office.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">MICROSOFT OFFICE SUIT</span>
@@ -550,7 +550,7 @@ body {
 	<!-- STATA -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/stata.png"/></a>
+	<a href="https://www.stata.com/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.stata.com/'); return false;"><img class="timelineimage" src="/img/stata.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
@@ -563,7 +563,7 @@ body {
 	
 	<!-- EVIEWS -->	
 	<li>
-	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/eviews.png"/></a>
+	<a href="https://www.eviews.com/home.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.eviews.com/home.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/eviews.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">EVIEWS</span>
@@ -576,20 +576,20 @@ body {
 	<!-- INKSCAPE -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/incscape.png"/></a>
+	<a href="https://inkscape.org/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://inkscape.org/'); return false;"><img class="timelineimage" src="/img/inkscape.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">INSCAPE</span>
 				<span class="time-wrapper"><span class="time">2018 - present</span></span>
 			</div>
-			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/mql5_level.png"/></div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/inkscape_level.png"/></div>
 		</div>
 	</li>
 	
 	<!-- GIMP -->	
 	<li>
-	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/gimp.png"/></a>
+	<a href="https://www.gimp.org/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.gimp.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/gimp.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">GIMP</span>
@@ -602,14 +602,42 @@ body {
 	<!-- ADOBE ILLUSTRATOR -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/adobeillustrator.png"/></a>
+	<a href="https://www.adobe.com/products/illustrator.html" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.adobe.com/products/illustrator.html'); return false;"><img class="timelineimage" src="/img/ai.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">ADOBE ILLUSTRATOR</span>
 				<span class="time-wrapper"><span class="time">2019 - present</span></span>
 			</div>
-			<div class="desc">Level: Pre-Intermediate <br><img class="levelimage" src="/img/adobeillustrator_level.png"/></div>
+			<div class="desc">Level: Pre-Intermediate <br><img class="levelimage" src="/img/ai_level.png"/></div>
+		</div>
+	</li>
+	
+	
+	<!-- BLENDER -->	
+	<li>
+	<a href="https://www.blender.org/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.blender.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/blender.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">BLENDER</span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">Level: Pre-Intermediate <br><img class="levelimage" src="/img/blender_level.png"/></div>
+		</div>
+	</li>
+	
+	
+	<!-- SCRIBUS -->
+	<li>
+	
+	<a href="https://www.scribus.net/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.scribus.net/'); return false;"><img class="timelineimage" src="/img/scribus.png"/></a>
+	<br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">SCRIBUS</span>
+				<span class="time-wrapper"><span class="time">2019 - present</span></span>
+			</div>
+			<div class="desc">Level: Pre-Intermediate <br><img class="levelimage" src="/img/scribus_level.png"/></div>
 		</div>
 	</li>
 	
@@ -629,27 +657,27 @@ body {
 	<!-- JEKYLL -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<a href="https://jekyllrb.com/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://jekyllrb.com/'); return false;"><img class="timelineimage" src="/img/jekyll.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">JEKYLL</span>
 				<span class="time-wrapper"><span class="time">2019 - present</span></span>
 			</div>
-			<div class="desc">Level: Upper-Intermediate <br><img class="levelimage" src="/img/mql5_level.png"/></div>
+			<div class="desc">Level: Upper-Intermediate <br><img class="levelimage" src="/img/jekyll_level.png"/></div>
 		</div>
 	</li>
 	
 	
 	<!-- GITHUB -->	
 	<li>
-	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+	<a href="https://github.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://github.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/github.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">GITHUB</span>
 				<span class="time-wrapper"><span class="time">2018 - present</span></span>
 			</div>
-			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/mql5_level.png"/></div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/github_level.png"/></div>
 		</div>
 	</li>
 	
@@ -670,13 +698,68 @@ body {
 	
 	<!-- TOOLS OF KALI LINUX -->	
 	<li>
-	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/kalilinux.png"/></a>
+	<a href="https://www.kali.org/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.kali.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/kalilinux.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">KALI LINUX</span>
 				<span class="time-wrapper"><span class="time">2018 - present</span></span>
 			</div>
 			<div class="desc">Level: Pre-Intermediate <br><img class="levelimage" src="/img/kalilinux_level.png"/></div>
+		</div>
+	</li>
+	
+	
+	<!-- DEBIAN -->
+	<li>
+	
+	<a href="https://www.debian.org/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.debian.org/'); return false;"><img class="timelineimage" src="/img/debian.png"/></a>
+	<br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">DEBIAN</span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/debian_level.png"/></div>
+		</div>
+	</li>
+	
+	
+	<!-- ORACLE VIRTUAL MACHINE -->	
+	<li>
+	<a href="https://www.virtualbox.org/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.virtualbox.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/virtualmachine.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">ORACLE VIRTUAL MACHINE</span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">Level: Advance <br><img class="levelimage" src="/img/virtualmachine_level.png"/></div>
+		</div>
+	</li>
+	
+	
+	<!-- DOCKER -->
+	<li>
+	
+	<a href="https://www.docker.com/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.docker.com/'); return false;"><img class="timelineimage" src="/img/docker.png"/></a>
+	<br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">DOCKER</span>
+				<span class="time-wrapper"><span class="time">2019 - present</span></span>
+			</div>
+			<div class="desc">Level: Beginner <br><img class="levelimage" src="/img/docker_level.png"/></div>
+		</div>
+	</li>
+	
+	<!-- CHROOT -->	
+	<li>
+	<a href="https://wiki.archlinux.org/index.php/chroot" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://wiki.archlinux.org/index.php/chroot','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/chroot.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">CHROOT</span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">Level: Intermediate <br><img class="levelimage" src="/img/chroot_level.png"/></div>
 		</div>
 	</li>
 	
@@ -687,18 +770,19 @@ body {
 			<img class="heading" src="/img/headings2.png"/>
 	<li>
 	
-	<a href="https://www.atilim.edu.tr/tr" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.atilim.edu.tr/tr','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/atılım.png"/></a>
+	<!-- STATISTICS -->
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/statistics.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Atılım University</span>
-				<span class="time-wrapper"><span class="time">2015 - 2016</span></span>
+				<span class="flag">STATISTICS</span>
+				<span class="time-wrapper"><span class="time">2010 - present</span></span>
 			</div>
-			<div class="desc">I took advanced English courses with a full scholarship for one year at Atılım University. I got 97.50 out of 100 from the latest official english exam in Turkey (YÖKDİL).</div>
+			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
 		</div>
 	</li>
 	
-				<!-- Item 8 -->
+	<!-- MATHEMATICS -->
 	<li>
 	
 	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
@@ -706,26 +790,141 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">Anadolu Univ. - H.B.Econ.</span>
-				<span class="time-wrapper"><span class="time">2011 - 2015</span></span>
+				<span class="flag">MATHEMATICS</span>
+				<span class="time-wrapper"><span class="time">2009 - present</span></span>
 			</div>
-			<div class="desc"> I started studying Economics at Anadolu University second year of my ongoing education in Biology. Attended meetings about technical and fundamental analysis. Worked with Metatrader, edited code in MQL4-5 language. MetaQuotes Language (MQL) is a specialized C++ based high-level object-oriented programming language.<br>
-			<center class="timelinegpa"><strong>GPA:3.55</strong></center></div>
+			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
 		</div>
 	</li>
-	<br>
+	
+	
+	<!--ECONOMETRICS -->
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/econometrics.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">ECONOMETRICS</span>
+				<span class="time-wrapper"><span class="time">2016 - present</span></span>
+			</div>
+			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+		</div>
+	</li>
+	
+	
+		<!-- DATA STRUCTER AND ALGORİTHMS -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/datastructure.png"/></a>
 	<br>
 	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">DATA STRUCTURE AND ALGORITHMS</span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+			</div>
+			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+		</div>
+	</li>
+	
+	
+		<!--FINANCIAL STATEMENT ANALYSIS -->
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/financialstatement.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">FINANCIAL STATEMENT ANALYSIS</span>
+				<span class="time-wrapper"><span class="time">2016 - present</span></span>
+			</div>
+			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+		</div>
+	</li>
+	
+	
+	<!-- DATA STRUCTER AND ALGORİTHMS -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/datastructure.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">DATA STRUCTURE AND ALGORITHMS</span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+			</div>
+			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+		</div>
+	</li>
+	
+	
+	<!--TECHNICAL AND FUNDAMENTAL ANALYSIS -->
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/technicalanalysis.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">TECHNICAL AND FUNDAMENTAL ANALYSIS</span>
+				<span class="time-wrapper"><span class="time">2016 - present</span></span>
+			</div>
+			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+		</div>
+	</li>
+	
+	
+		<!-- WHAT IF ANALYSIS -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/whatif.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">WHAT IF ANALYSIS</span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+			</div>
+			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+		</div>
+	</li>
+	
+	
+		<!--COST ANALYSIS -->
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/costanalysis.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">COST ANALYSIS</span>
+				<span class="time-wrapper"><span class="time">2016 - present</span></span>
+			</div>
+			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+		</div>
+	</li>
+	
+			<!-- CASH FLOW ANALYSIS -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/cashflow.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">CASH FLOW ANALYSIS</span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+			</div>
+			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+		</div>
+	</li>
+	
+	
+	<br>
+	<br>
 				<!-- LANGUAGES -->
 				<img class="heading" src="/img/heading4.png"/>
-	<!-- ENGLİSH -->
+	<!-- ENGLISH -->
 	<li>
 	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Hacettepe Univ. - Hons.B.Sc.</span>
-				<span class="time-wrapper"><span class="time">2009 - 2015</span></span>
+				<span class="flag">ENGLISH</span>
+				<span class="time-wrapper"><span class="time">2009 - present</span></span>
 			</div>
 			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
 			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
@@ -741,8 +940,8 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">Anadolu Univ. - H.B.Econ.</span>
-				<span class="time-wrapper"><span class="time">2011 - 2015</span></span>
+				<span class="flag">SPANISH</span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
 			<div class="desc"> I started studying Economics at Anadolu University second year of my ongoing education in Biology. Attended meetings about technical and fundamental analysis. Worked with Metatrader, edited code in MQL4-5 language. MetaQuotes Language (MQL) is a specialized C++ based high-level object-oriented programming language.<br>
 			<center class="timelinegpa"><strong>GPA:3.55</strong></center></div>
@@ -756,7 +955,7 @@ body {
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Hacettepe Univ. - Hons.B.Sc.</span>
-				<span class="time-wrapper"><span class="time">2009 - 2015</span></span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
 			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
 			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
@@ -764,10 +963,36 @@ body {
 		</div>
 	</li>
 	
-</ul>
-  
-  
 
+
+		<br>
+		<br>
+				<!-- CERTIFICATIONS -->
+				<img class="heading" src="/img/heading5.png"/>
+
+	<!-- ENGLISH -->
+	<li>
+	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">ENGLISH</span>
+				<span class="time-wrapper"><span class="time">2009 - present</span></span>
+			</div>
+			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
+			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
+			</div>
+		</div>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	</ul>
 </body>
 
 </html>
