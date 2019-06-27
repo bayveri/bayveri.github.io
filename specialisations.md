@@ -336,8 +336,10 @@ body {
 <!-- The Timeline -->
 
 <ul class="timeline">
+	
+		<!-- Programming Languages -->
 <img class="heading" src="/img/heading1.png"/>
-	<!-- Item 1 -->
+	<!-- R -->
 <li>
 	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
 	
@@ -353,7 +355,7 @@ body {
 	</li>
   
   
-	<!-- Item 2 -->
+	<!-- Python -->
 	<li>
 	
 	<a href="http://www.egefinansdernegi.org/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/efd.png"/></a>
@@ -369,7 +371,7 @@ body {
 		</div>
 	</li>
   
-	<!-- Item 3 -->
+	<!-- SQL -->
 	<li>
 	
 	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
@@ -383,7 +385,7 @@ body {
 		</div>
 	</li>
 
-		<!-- Item 4 -->
+	<!-- HTML -->
 	<li>
 	  
 	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
@@ -397,13 +399,132 @@ body {
 		</div>
 	</li>
  
-		<!-- Item 5 -->
+ 	<!--MARKDOWN  -->
 	<li>
 	
-	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
+
+	<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Ege University - Scholar </span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
+		</div>
+	</li>
+ 
+ 
+	<!-- CSS -->
+	<li>
+	  
+	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
+	  <br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">TÜBİTAK - Data Analyst</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">TÜBİTAK is The Scientific and Technological Research Council of Turkey. I was part of a research project related to competitiveness of the companies in Turkey funded by the council.  I used and improved my big data analytics skills that was building along with my latest finance job and personal interest.</div>
+		</div>
+	</li>
+ 
+	 <!--JAVASCRİPT  -->
+	<li>
 	
-		<div class="direction-r">
+	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
+
+	<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Ege University - Scholar </span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
+		</div>
+	</li>
+ 
+ 
+ 	<!-- BOOTSTRAP -->
+	<li>
+	  
+	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
+	  <br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">TÜBİTAK - Data Analyst</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">TÜBİTAK is The Scientific and Technological Research Council of Turkey. I was part of a research project related to competitiveness of the companies in Turkey funded by the council.  I used and improved my big data analytics skills that was building along with my latest finance job and personal interest.</div>
+		</div>
+	</li>
+ 
+  	<!--YAML  -->
+	<li>
+	
+	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
+
+	<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Ege University - Scholar </span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
+		</div>
+	</li>
+ 
+ 
+ 	<!-- XML -->
+	<li>
+	  
+	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
+	  <br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">TÜBİTAK - Data Analyst</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">TÜBİTAK is The Scientific and Technological Research Council of Turkey. I was part of a research project related to competitiveness of the companies in Turkey funded by the council.  I used and improved my big data analytics skills that was building along with my latest finance job and personal interest.</div>
+		</div>
+	</li>
+ 
+ 
+ 
+  	<!--MQL  -->
+	<li>
+	
+	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
+
+	<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Ege University - Scholar </span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
+		</div>
+	</li>
+ 
+ 
+ 	<!-- BASH -->
+	<li>
+	  
+	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
+	  <br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">TÜBİTAK - Data Analyst</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">TÜBİTAK is The Scientific and Technological Research Council of Turkey. I was part of a research project related to competitiveness of the companies in Turkey funded by the council.  I used and improved my big data analytics skills that was building along with my latest finance job and personal interest.</div>
+		</div>
+	</li>
+ 
+ 
+		<!-- SOFTWARES -->
+		<img class="heading" src="/img/headings2.png"/>
 		
+	<!-- MICROSOFT OFFICE -->	
+	<li>
+	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Roca - Finance Asistant</span>
 				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
@@ -413,8 +534,7 @@ body {
 		</div>
 	</li>
 	
-			<!-- Item 6 -->
-			<img class="heading" src="/img/headings2.png"/>
+	<!-- STATA -->
 	<li>
 	
 	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
@@ -428,7 +548,119 @@ body {
 		</div>
 	</li>
 	
-			<!-- Item 7 -->
+	<!-- EVIEWS -->	
+	<li>
+	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Roca - Finance Asistant</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
+			</div>
+		</div>
+	</li>
+	
+	<!-- INKSCAPE -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Anadolu Univ.- PhD</span>
+				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
+			</div>
+			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering.</div>
+		</div>
+	</li>
+	
+	<!-- GIMP -->	
+	<li>
+	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Roca - Finance Asistant</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
+			</div>
+		</div>
+	</li>
+	
+	<!-- ADOBE ILLUSTRATOR -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Anadolu Univ.- PhD</span>
+				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
+			</div>
+			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering.</div>
+		</div>
+	</li>
+	
+	<!-- WORDPRESS -->	
+	<li>
+	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Roca - Finance Asistant</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
+			</div>
+		</div>
+	</li>
+	
+	
+	<!-- JEKYLL -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Anadolu Univ.- PhD</span>
+				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
+			</div>
+			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering.</div>
+		</div>
+	</li>
+	
+	
+	<!-- GITHUB -->	
+	<li>
+	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Roca - Finance Asistant</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
+			</div>
+		</div>
+	</li>
+	
+	<!-- METATRADER -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<br>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Anadolu Univ.- PhD</span>
+				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
+			</div>
+			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering.</div>
+		</div>
+	</li>
+	
+	
+			<!-- Analytics -->
+			<img class="heading" src="/img/headings2.png"/>
 	<li>
 	
 	<a href="https://www.atilim.edu.tr/tr" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.atilim.edu.tr/tr','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/atılım.png"/></a>
@@ -458,11 +690,42 @@ body {
 		</div>
 	</li>
 	<br>
-	<hr>
 	<br>
 	
-				<!-- Item 9 -->
+				<!-- LANGUAGES -->
 				<img class="heading" src="/img/heading4.png"/>
+	<!-- ENGLİSH -->
+	<li>
+	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Hacettepe Univ. - Hons.B.Sc.</span>
+				<span class="time-wrapper"><span class="time">2009 - 2015</span></span>
+			</div>
+			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
+			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
+			</div>
+		</div>
+	</li>
+	
+	<!-- SPANISH -->
+	<li>
+	
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Anadolu Univ. - H.B.Econ.</span>
+				<span class="time-wrapper"><span class="time">2011 - 2015</span></span>
+			</div>
+			<div class="desc"> I started studying Economics at Anadolu University second year of my ongoing education in Biology. Attended meetings about technical and fundamental analysis. Worked with Metatrader, edited code in MQL4-5 language. MetaQuotes Language (MQL) is a specialized C++ based high-level object-oriented programming language.<br>
+			<center class="timelinegpa"><strong>GPA:3.55</strong></center></div>
+		</div>
+	</li>	
+	
+	<!-- RUSSIAN -->
 	<li>
 	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
 	
