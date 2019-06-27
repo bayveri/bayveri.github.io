@@ -336,7 +336,7 @@ body {
 <!-- The Timeline -->
 
 <ul class="timeline">
-<img class="heading" src="/img/headings1.png"/>
+<img class="heading" src="/img/heading1.png"/>
 	<!-- Item 1 -->
 <li>
 	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
