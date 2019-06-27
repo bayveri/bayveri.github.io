@@ -457,6 +457,8 @@ body {
 			<center class="timelinegpa"><strong>GPA:3.55</strong></center></div>
 		</div>
 	</li>
+	<br>
+	<br>
 	
 				<!-- Item 9 -->
 				<img class="heading" src="/img/heading4.png"/>
