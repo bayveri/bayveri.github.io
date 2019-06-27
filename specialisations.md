@@ -345,12 +345,12 @@ body {
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">VeriAnaliz.net - Founder</span>
+				<span class="flag">R</span>
 
-				<span class="time-wrapper"><span class="time">2019 - present</span></span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 	
 			</div>
-			<div class="desc">I have just started the project that will serve everybody who need data science consulting in Turkey. It is and will be for free. Every tool used in this project is open source, from the operating system I use to multimedia tools like graphics, data visualisation etc. For more information click the Mr.Data (bayveri in turkish) above. For whom it may interested in my works around the world please follow us. I will start a smilar project in English as soon as possible.</div>
+			<div class="desc">Level: ADVANCED <br><img class="timelineimage" src="/img/r_level.png"/> </div>
 		</div>
 	</li>
   
@@ -363,11 +363,11 @@ body {
 		<div class="direction-l">
 		
 			<div class="flag-wrapper">
-				<span class="flag">EFD - IT Consultant</span>
+				<span class="flag">PYTHON</span>
 				
 				<span class="time-wrapper"><span class="time">2018 - present</span></span>
 			</div>
-			<div class="desc"> EFD stands for Aegean Finance Association. I am consulting web development, web design, graphic design, and data analytics processes of the association.</div>
+			<div class="desc"> Level: INTERMEDIATE</div>
 		</div>
 	</li>
   
@@ -378,10 +378,10 @@ body {
 
 	<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Ege University - Scholar </span>
-				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+				<span class="flag">SQL </span>
+				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
+			<div class="desc">LEVEL: INTERMEDIATE</div>
 		</div>
 	</li>
 
@@ -392,10 +392,10 @@ body {
 	  <br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">TÜBİTAK - Data Analyst</span>
-				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+				<span class="flag">HTML</span>
+				<span class="time-wrapper"><span class="time">2011 - present</span></span>
 			</div>
-			<div class="desc">TÜBİTAK is The Scientific and Technological Research Council of Turkey. I was part of a research project related to competitiveness of the companies in Turkey funded by the council.  I used and improved my big data analytics skills that was building along with my latest finance job and personal interest.</div>
+			<div class="desc">LEVEL: ADVANCED</div>
 		</div>
 	</li>
  
@@ -488,7 +488,7 @@ body {
  
  
  
-  	<!--MQL  -->
+  	<!--JSON  -->
 	<li>
 	
 	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
@@ -514,6 +514,20 @@ body {
 				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
 			</div>
 			<div class="desc">TÜBİTAK is The Scientific and Technological Research Council of Turkey. I was part of a research project related to competitiveness of the companies in Turkey funded by the council.  I used and improved my big data analytics skills that was building along with my latest finance job and personal interest.</div>
+		</div>
+	</li>
+	
+	<!--MQL  -->
+	<li>
+	
+	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
+
+	<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Ege University - Scholar </span>
+				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+			</div>
+			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
 		</div>
 	</li>
  
@@ -658,6 +672,22 @@ body {
 		</div>
 	</li>
 	
+	
+	<!-- TOOLS OF KALI LINUX -->	
+	<li>
+	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Roca - Finance Asistant</span>
+				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
+			</div>
+			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
+			</div>
+		</div>
+	</li>
+	
+	<br>
+	<br>
 	
 			<!-- Analytics -->
 			<img class="heading" src="/img/headings2.png"/>
