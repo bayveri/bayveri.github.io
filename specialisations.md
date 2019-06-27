@@ -767,7 +767,7 @@ body {
 	<br>
 	
 			<!-- Analytics -->
-			<img class="heading" src="/img/headings2.png"/>
+			<img class="heading" src="/img/heading2.png"/>
 	
 	<!-- STATISTICS -->
 	<li>
@@ -778,13 +778,12 @@ body {
 				<span class="flag">STATISTICS</span>
 				<span class="time-wrapper"><span class="time">2010 - present</span></span>
 			</div>
-			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/statistics_level.png"/></div>
 		</div>
 	</li>
 	
 	<!-- MATHEMATICS -->
 	<li>
-	
 	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
 	<br>
 	
@@ -793,7 +792,7 @@ body {
 				<span class="flag">MATHEMATICS</span>
 				<span class="time-wrapper"><span class="time">2009 - present</span></span>
 			</div>
-			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+			<div class="desc"> Level: Advanced <br><img class="levelimage" src="/img/mathematics_level.png"/></div>
 		</div>
 	</li>
 	
@@ -807,7 +806,7 @@ body {
 				<span class="flag">ECONOMETRICS</span>
 				<span class="time-wrapper"><span class="time">2016 - present</span></span>
 			</div>
-			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/econometrics_level.png"/></div>
 		</div>
 	</li>
 	
@@ -823,7 +822,7 @@ body {
 				<span class="flag">DATA STRUCTURE AND ALGORITHMS</span>
 				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+			<div class="desc"> Level: Intermediate <br><img class="levelimage" src="/img/datastructure_level.png"/></div>
 		</div>
 	</li>
 	
@@ -837,23 +836,22 @@ body {
 				<span class="flag">FINANCIAL STATEMENT ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">2016 - present</span></span>
 			</div>
-			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/econometrics_level.png"/></div>
 		</div>
 	</li>
 	
 	
-	<!-- DATA STRUCTER AND ALGORİTHMS -->
+	<!-- VALUE CHAIN ANALYSIS  -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/datastructure.png"/></a>
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/valuechain.png"/></a>
 	<br>
-	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">DATA STRUCTURE AND ALGORITHMS</span>
+				<span class="flag">VALUE CHAIN ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+			<div class="desc"> Level: Advanced <br><img class="levelimage" src="/img/valuechain_level.png"/></div>
 		</div>
 	</li>
 	
@@ -867,7 +865,7 @@ body {
 				<span class="flag">TECHNICAL AND FUNDAMENTAL ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">2016 - present</span></span>
 			</div>
-			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/technicalanalysis_level.png"/></div>
 		</div>
 	</li>
 	
@@ -883,7 +881,7 @@ body {
 				<span class="flag">WHAT IF ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+			<div class="desc"> Level: Advanced <br><img class="levelimage" src="/img/whatif_level.png"/></div>
 		</div>
 	</li>
 	
@@ -897,7 +895,7 @@ body {
 				<span class="flag">COST ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">2016 - present</span></span>
 			</div>
-			<div class="desc">I took two times university level statistics class and passed with A1 both classes. One from Hacettepe University Biology department one from Anadolu University Economics Department. Furthermore, after graduation I took advanced statistics courses online. Nowadays I am working on Machine Learning problems.  </div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/costanalysis_level.png"/></div>
 		</div>
 	</li>
 	
@@ -912,7 +910,7 @@ body {
 				<span class="flag">CASH FLOW ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc"> It was one of my favorite subject. I am really interested in <br>
+			<div class="desc"> Level: Advanced <br><img class="levelimage" src="/img/cashflow_level.png"/></div>
 		</div>
 	</li>
 	
@@ -923,23 +921,21 @@ body {
 				<img class="heading" src="/img/heading4.png"/>
 	<!-- ENGLISH -->
 	<li>
-	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/english.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">ENGLISH</span>
 				<span class="time-wrapper"><span class="time">2009 - present</span></span>
 			</div>
-			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
-			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
-			</div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/english_level.png"/></div>
 		</div>
 	</li>
 	
 	<!-- SPANISH -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/spanish.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -947,8 +943,7 @@ body {
 				<span class="flag">SPANISH</span>
 				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc"> I started studying Economics at Anadolu University second year of my ongoing education in Biology. Attended meetings about technical and fundamental analysis. Worked with Metatrader, edited code in MQL4-5 language. MetaQuotes Language (MQL) is a specialized C++ based high-level object-oriented programming language.<br>
-			<center class="timelinegpa"><strong>GPA:3.55</strong></center></div>
+			<div class="desc"> Level: Pre-Intermediate <br><img class="levelimage" src="/img/spanish_level.png"/></div>
 		</div>
 	</li>	
 	
@@ -958,12 +953,10 @@ body {
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Hacettepe Univ. - Hons.B.Sc.</span>
+				<span class="flag">RUSSIAN</span>
 				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
-			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
-			</div>
+			<div class="desc">Level: Elementory <br><img class="levelimage" src="/img/spanish_level.png"/></div>
 		</div>
 	</li>
 	
@@ -989,6 +982,9 @@ body {
 		</div>
 	</li>
 	
+	
+	
+
 </ul>
   
   
