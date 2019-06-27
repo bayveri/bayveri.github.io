@@ -458,6 +458,7 @@ body {
 		</div>
 	</li>
 	<br>
+	<hr size="6" color="#505050">
 	<br>
 	
 				<!-- Item 9 -->
