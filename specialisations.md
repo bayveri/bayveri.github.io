@@ -336,7 +336,7 @@ body {
 <!-- The Timeline -->
 
 <ul class="timeline">
-
+<center class="head"> <strong> Programming Languages </center> </strong>
 	<!-- Item 1 -->
 <li>
 	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
@@ -423,7 +423,7 @@ body {
 				<span class="flag">Anadolu Univ.- PhD</span>
 				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
 			</div>
-			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering. I continue my academic career at Ege University as I have beed awarded scholarship.</div>
+			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering.</div>
 		</div>
 	</li>
 	
@@ -437,7 +437,7 @@ body {
 				<span class="flag">Atılım University</span>
 				<span class="time-wrapper"><span class="time">2015 - 2016</span></span>
 			</div>
-			<div class="desc">I took advanced English courses with a full scholarship for one year.</div>
+			<div class="desc">I took advanced English courses with a full scholarship for one year at Atılım University. I got 97.50 out of 100 from the latest official english exam in Turkey (YÖKDİL).</div>
 		</div>
 	</li>
 	
@@ -452,7 +452,7 @@ body {
 				<span class="flag">Anadolu Univ. - H.B.Econ.</span>
 				<span class="time-wrapper"><span class="time">2011 - 2015</span></span>
 			</div>
-			<div class="desc"> I started studying Economics second year of my ongoing education in Biology. After the gap year, I took at the beginning of the university, I have already started reading on Economics. I have studied both subject at the same time and I granted honor degree both of them.<br>
+			<div class="desc"> I started studying Economics at Anadolu University second year of my ongoing education in Biology. Attended meetings about technical and fundamental analysis. Worked with Metatrader, edited code in MQL4-5 language. MetaQuotes Language (MQL) is a specialized C++ based high-level object-oriented programming language.<br>
 			<center class="timelinegpa"><strong>GPA:3.55</strong></center></div>
 		</div>
 	</li>
@@ -466,7 +466,7 @@ body {
 				<span class="flag">Hacettepe Univ. - Hons.B.Sc.</span>
 				<span class="time-wrapper"><span class="time">2009 - 2015</span></span>
 			</div>
-			<div class="desc">I studied Biology. Established Biotechnology Research Student Club with friends. Graduated with first class honour degree (as being a Biologist, have fulfilled my childhood dream). At the same time majored in Economics from Anadolu University.<br>
+			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
 			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
 			</div>
 		</div>
