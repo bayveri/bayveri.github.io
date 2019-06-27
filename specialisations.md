@@ -768,9 +768,9 @@ body {
 	
 			<!-- Analytics -->
 			<img class="heading" src="/img/headings2.png"/>
-	<li>
 	
 	<!-- STATISTICS -->
+	<li>
 	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/statistics.png"/></a>
 	
 		<div class="direction-r">
@@ -799,6 +799,7 @@ body {
 	
 	
 	<!--ECONOMETRICS -->
+	<li>
 	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/econometrics.png"/></a>
 	
 		<div class="direction-r">
@@ -828,6 +829,7 @@ body {
 	
 	
 		<!--FINANCIAL STATEMENT ANALYSIS -->
+		<li>
 	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/financialstatement.png"/></a>
 	
 		<div class="direction-r">
@@ -857,6 +859,7 @@ body {
 	
 	
 	<!--TECHNICAL AND FUNDAMENTAL ANALYSIS -->
+	<li>
 	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/technicalanalysis.png"/></a>
 	
 		<div class="direction-r">
@@ -886,6 +889,7 @@ body {
 	
 	
 		<!--COST ANALYSIS -->
+		<li>
 	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/costanalysis.png"/></a>
 	
 		<div class="direction-r">
@@ -984,12 +988,6 @@ body {
 			</div>
 		</div>
 	</li>
-	
-	
-	
-	
-	
-	
 	
 	
 	</ul>
