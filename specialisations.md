@@ -350,7 +350,7 @@ body {
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 	
 			</div>
-			<div class="desc"> <img class="levelimage" src="/img/r_level.png"/> </div>
+			<div class="desc"> <img class="levelimage" src="/img/Advanced.png"/> </div>
 		</div>
 	</li>
   
@@ -367,7 +367,7 @@ body {
 				
 				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
-			<div class="desc"> <img class="levelimage" src="/img/python_level.png"/> </div>
+			<div class="desc"> <img class="levelimage" src="/img/Intermediate.png"/> </div>
 		</div>
 	</li>
   
@@ -379,9 +379,9 @@ body {
 	<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">SQL </span>
-				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
+				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/sql_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
 		</div>
 	</li>
 
@@ -393,9 +393,9 @@ body {
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">HTML</span>
-				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
+				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/html_level.png"/> </div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/> </div>
 		</div>
 	</li>
  
@@ -409,7 +409,7 @@ body {
 				<span class="flag">MARKDOWN </span>
 				<span class="time-wrapper"><span class="time">Level: Advanced </span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/markdown_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
  
@@ -422,9 +422,9 @@ body {
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">CSS</span>
-				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
+				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/css_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
 		</div>
 	</li>
  
@@ -438,7 +438,7 @@ body {
 				<span class="flag">JAVA SCRIPT</span>
 				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/javascript_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>
  
@@ -453,7 +453,7 @@ body {
 				<span class="flag">BOOTSTRAP</span>
 				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/bootstrap_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>
  
@@ -467,7 +467,7 @@ body {
 				<span class="flag">YAML </span>
 				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/yaml_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Intermediate.png"/></div>
 		</div>
 	</li>
  
@@ -480,9 +480,9 @@ body {
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">XML</span>
-				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
+				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/xml_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
 		</div>
 	</li>
  
@@ -496,9 +496,9 @@ body {
 	<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">JSON</span>
-				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
+				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/json_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
 		</div>
 	</li>
  
@@ -511,9 +511,9 @@ body {
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">BASH</span>
-				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
+				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/bash_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -525,9 +525,9 @@ body {
 	<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">MQL5 </span>
-				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
+				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/mql5_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>
  
@@ -543,7 +543,7 @@ body {
 				<span class="flag">MICROSOFT OFFICE SUIT</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/office_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -557,7 +557,7 @@ body {
 				<span class="flag">STATA</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/stata_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -569,7 +569,7 @@ body {
 				<span class="flag">EVIEWS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/eviews_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -583,7 +583,7 @@ body {
 				<span class="flag">INSCAPE</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/inkscape_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -595,7 +595,7 @@ body {
 				<span class="flag">GIMP</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/gimp_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -609,7 +609,7 @@ body {
 				<span class="flag">ADOBE ILLUSTRATOR</span>
 				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/ai_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -622,7 +622,7 @@ body {
 				<span class="flag">BLENDER</span>
 				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/blender_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -637,7 +637,7 @@ body {
 				<span class="flag">SCRIBUS</span>
 				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/scribus_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -649,7 +649,7 @@ body {
 				<span class="flag">WORDPRESS</span>
 				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/wordpress_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -664,7 +664,7 @@ body {
 				<span class="flag">JEKYLL</span>
 				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/jekyll_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -677,7 +677,7 @@ body {
 				<span class="flag">GITHUB</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/github_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -691,7 +691,7 @@ body {
 				<span class="flag">METATRADER</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/metatrader_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -704,7 +704,7 @@ body {
 				<span class="flag">KALI LINUX</span>
 				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/kalilinux_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -719,7 +719,7 @@ body {
 				<span class="flag">DEBIAN</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/debian_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -732,7 +732,7 @@ body {
 				<span class="flag">ORACLE VIRTUAL BOX</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/virtualmachine_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -747,7 +747,7 @@ body {
 				<span class="flag">DOCKER</span>
 				<span class="time-wrapper"><span class="time">Level: Elementary</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/docker_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Elementary.png"/></div>
 		</div>
 	</li>
 	
@@ -759,7 +759,7 @@ body {
 				<span class="flag">CHROOT</span>
 				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/chroot_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -778,7 +778,7 @@ body {
 				<span class="flag">STATISTICS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/statistics_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -792,7 +792,7 @@ body {
 				<span class="flag">MATHEMATICS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/mathematics_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -806,7 +806,7 @@ body {
 				<span class="flag">ECONOMETRICS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/econometrics_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -822,7 +822,7 @@ body {
 				<span class="flag">DATA STRUCTURE AND ALGORITHMS</span>
 				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
-			<div class="desc"> <img class="levelimage" src="/img/datastructure_level.png"/></div>
+			<div class="desc"> <img class="levelimage" src="/img/Intermediate.png"/></div>
 		</div>
 	</li>
 	
@@ -836,7 +836,7 @@ body {
 				<span class="flag">FINANCIAL STATEMENT ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/financialstatement_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -851,7 +851,7 @@ body {
 				<span class="flag">VALUE CHAIN ANALYSIS</span>
 				<span class="time-wrapper"><span class="time"> Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/valuechain_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -865,7 +865,7 @@ body {
 				<span class="flag">TECHNICAL AND FUNDAMENTAL ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/technicalanalysis_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -881,7 +881,7 @@ body {
 				<span class="flag">WHAT IF ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/whatif_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -895,7 +895,7 @@ body {
 				<span class="flag">COST ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/costanalysis_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -910,7 +910,7 @@ body {
 				<span class="flag">CASH FLOW ANALYSIS</span>
 				<span class="time-wrapper"><span class="time"> Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/cashflow_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -928,7 +928,7 @@ body {
 				<span class="flag">ENGLISH</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/english_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
 		</div>
 	</li>
 	
@@ -943,7 +943,7 @@ body {
 				<span class="flag">SPANISH</span>
 				<span class="time-wrapper"><span class="time"> Level: Pre-Intermediate</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/spanish_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
 		</div>
 	</li>	
 	
@@ -956,7 +956,7 @@ body {
 				<span class="flag">RUSSIAN</span>
 				<span class="time-wrapper"><span class="time">Level: Elementary</span></span>
 			</div>
-			<div class="desc"><img class="levelimage" src="/img/russian_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/Elementary.png"/></div>
 		</div>
 	</li>
 	
