@@ -990,7 +990,7 @@ body {
 				<span class="time-wrapper"><span class="time">May 2018</span></span>
 			</div>
 			<div class="desc">Credential ID 11731445<br>
-			<center class="timelinegpa"><strong>Corporate Finance Institute® (CFI)</strong></center> 
+			<strong>Corporate Finance Institute® (CFI)</strong> 
 			</div>
 		</div>
 	</li>
@@ -1008,7 +1008,7 @@ body {
 				<span class="time-wrapper"><span class="time">Jul 2018</span></span>
 			</div>
 			<div class="desc"> Credential ID 11742766<br>
-			<center class="timelinegpa"><strong>Corporate Finance Institute® (CFI)</strong></center>
+			<strong>Corporate Finance Institute® (CFI)</strong>
 			</div>
 		</div>
 	</li>	
@@ -1024,7 +1024,7 @@ body {
 				<span class="time-wrapper"><span class="time">Jul 2018</span></span>
 			</div>
 			<div class="desc">Credential ID 11747366<br>
-			<center class="timelinegpa"><strong>Corporate Finance Institute® (CFI)</strong></center> 
+			<strong>Corporate Finance Institute® (CFI)</strong>
 			</div>
 		</div>
 	</li>
@@ -1039,11 +1039,11 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">THE DATA SCIENTIST’S TOOLBOX ON COURSERA</span>
+				<span class="flag">THE DATA SCIENTIST’S TOOLBOX</span>
 				<span class="time-wrapper"><span class="time">Feb 2019</span></span>
 			</div>
-			<div class="desc">Credential ID 8JG4WCG9FL5D<br>
-			<center class="timelinegpa"><strong>Johns Hopkins Bloomberg School of Public Health</strong></center>
+			<div class="desc">on COURSERA <br>Credential ID 8JG4WCG9FL5D<br>
+			<strong>Johns Hopkins Bloomberg School of Public Health</strong>
 			</div>
 		</div>
 	</li>	
@@ -1054,10 +1054,10 @@ body {
 	<a href="https://www.udemy.com/certificate/UC-1960TD2T/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.udemy.com/certificate/UC-1960TD2T/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/superdatascience.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">R PROGRAMMING A-Z ON UDEMY</span>
+				<span class="flag">R PROGRAMMING A-Z </span>
 				<span class="time-wrapper"><span class="time">May 2019</span></span>
 			</div>
-			<div class="desc">Credential ID UC-1960TD2T<br>
+			<div class="desc">on UDEMY<br>Credential ID UC-1960TD2T<br>
 			<center class="timelinegpa"><strong>SuperDataScience</strong></center> 
 			</div>
 		</div>
@@ -1072,10 +1072,10 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">R PROGRAMMING ON COURSERA</span>
+				<span class="flag">R PROGRAMMING </span>
 				<span class="time-wrapper"><span class="time">May 2019</span></span>
 			</div>
-			<div class="desc">Credential ID AQ3B4XFDKCT9<br>
+			<div class="desc">on COURSERA<br>Credential ID AQ3B4XFDKCT9<br>
 			<center class="timelinegpa"><strong>Johns Hopkins Bloomberg School of Public Health</strong></center>
 		</div>
 		</div>
@@ -1084,15 +1084,15 @@ body {
 	
 				<!-- ADVANCED ANALYTICS IN R FOR DATA SCIENCE ON UDEMY -->
 	<li>
-	<a href="https://www.udemy.com/certificate/UC-4Q3OVXH1/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.udemy.com/certificate/UC-4Q3OVXH1/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	<a href="https://www.udemy.com/certificate/UC-4Q3OVXH1/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.udemy.com/certificate/UC-4Q3OVXH1/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/superdatascience.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">ADVANCED ANALYTICS IN R FOR DATA SCIENCE ON UDEMY</span>
+				<span class="flag">ADVANCED R FOR DATA SCIENCE</span>
 				<span class="time-wrapper"><span class="time">May 2019</span></span>
 			</div>
-			<div class="desc">Credential ID UC-4Q3OVXH1<br>
-			<center class="timelinegpa"><strong>SuperDataScience</strong></center> 
+			<div class="desc">on UDEMY <br> Credential ID UC-4Q3OVXH1<br>
+			<strong>SuperDataScience</strong>
 			</div>
 		</div>
 	</li>
@@ -1106,11 +1106,11 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">LINUX OPERATING SYSTEM FUNDAMENTALS ON UDEMY</span>
+				<span class="flag">LINUX FUNDAMENTALS </span>
 				<span class="time-wrapper"><span class="time"> May 2019</span></span>
 			</div>
-			<div class="desc">Credential ID UC-KV0NUEC9<br>
-			<center class="timelinegpa"><strong>Linux Academy</strong></center> 
+			<div class="desc">on UDEMY <br>Credential ID UC-KV0NUEC9<br>
+			<strong>Linux Academy</strong>
 			</div>
 		</div>
 	</li>	
@@ -1122,11 +1122,11 @@ body {
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">INTRODUCTION TO PROBABILITY AND DATA ON COURSERA</span>
+				<span class="flag">PROBABILITY AND DATA</span>
 				<span class="time-wrapper"><span class="time">May 2019</span></span>
 			</div>
-			<div class="desc">Credential ID MJ4VGVQKHELW<br>
-			<center class="timelinegpa"><strong>Duke University</strong></center> 
+			<div class="desc">on COURSERA<br>Credential ID MJ4VGVQKHELW<br>
+			<strong>Duke University</strong> 
 			</div>
 		</div>
 	</li>
