@@ -533,7 +533,7 @@ body {
  
  
 		<!-- SOFTWARES -->
-		<img class="heading" src="/img/headings2.png"/>
+		<img class="heading" src="/img/heading2.png"/>
 		
 	<!-- MICROSOFT OFFICE -->	
 	<li>
@@ -729,7 +729,7 @@ body {
 	<a href="https://www.virtualbox.org/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.virtualbox.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/virtualmachine.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">ORACLE VIRTUAL MACHINE</span>
+				<span class="flag">ORACLE VIRTUAL BOX</span>
 				<span class="time-wrapper"><span class="time">2018 - present</span></span>
 			</div>
 			<div class="desc">Level: Advance <br><img class="levelimage" src="/img/virtualmachine_level.png"/></div>
@@ -767,7 +767,7 @@ body {
 	<br>
 	
 			<!-- Analytics -->
-			<img class="heading" src="/img/heading2.png"/>
+			<img class="heading" src="/img/heading3.png"/>
 	
 	<!-- STATISTICS -->
 	<li>
@@ -899,7 +899,7 @@ body {
 		</div>
 	</li>
 	
-			<!-- CASH FLOW ANALYSIS -->
+		<!-- CASH FLOW ANALYSIS -->
 	<li>
 	
 	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/cashflow.png"/></a>
