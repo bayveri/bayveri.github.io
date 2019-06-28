@@ -784,7 +784,7 @@ body {
 	
 	<!-- MATHEMATICS -->
 	<li>
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/mathematics.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/mathematics.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -814,7 +814,7 @@ body {
 		<!-- DATA STRUCTER AND ALGORİTHMS -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/datastructure.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/datastructure.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -844,7 +844,7 @@ body {
 	<!-- VALUE CHAIN ANALYSIS  -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/valuechain.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/valuechain.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
@@ -873,7 +873,7 @@ body {
 		<!-- WHAT IF ANALYSIS -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/whatif.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/whatif.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -902,7 +902,7 @@ body {
 		<!-- CASH FLOW ANALYSIS -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/cashflow.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/cashflow.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -915,14 +915,27 @@ body {
 	</li>
 	
 	
+			<!--SPATIAL ANALYSIS -->
+		<li>
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/costanalysis.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">SPATIAL ANALYSIS</span>
+				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
+			</div>
+			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
+		</div>
+	</li>
+	
+	
 	<br>
 	<br>
 				<!-- LANGUAGES -->
 				<img class="heading" src="/img/heading4.png"/>
 	<!-- ENGLISH -->
 	<li>
-	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/english.png"/></a>
-	
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/english.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">ENGLISH</span>
@@ -935,7 +948,7 @@ body {
 	<!-- SPANISH -->
 	<li>
 	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/spanish.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/spanish.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -949,7 +962,7 @@ body {
 	
 	<!-- RUSSIAN -->
 	<li>
-	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/russian.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/russian.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -967,21 +980,156 @@ body {
 				<!-- CERTIFICATIONS -->
 				<img class="heading" src="/img/heading5.png"/>
 
-	<!-- ENGLISH -->
+	<!-- ACCAUNTING FUNDAMENTALS -->
 	<li>
-	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	<a href="https://www.credential.net/11731445" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.credential.net/11731445','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/cfi.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">ENGLISH</span>
-				<span class="time-wrapper"><span class="time">2009 - present</span></span>
+				<span class="flag">ACCAUNTING FUNDAMENTALS</span>
+				<span class="time-wrapper"><span class="time">May 2018</span></span>
 			</div>
-			<div class="desc">I studied Biology at Hacettepe University. Attended conferences about Bioinformatics.<br>
-			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
+			<div class="desc">Credential ID 11731445<br>
+			<center class="timelinegpa"><strong>Corporate Finance Institute® (CFI)</strong></center> 
 			</div>
 		</div>
 	</li>
 	
+	
+		<!-- READING FINANCIAL STATEMENTS -->
+	<li>
+	
+	<a href="https://www.credential.net/11742766" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.credential.net/11742766','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/cfi.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">READING FINANCIAL STATEMENTS</span>
+				<span class="time-wrapper"><span class="time">Jul 2018</span></span>
+			</div>
+			<div class="desc"> Credential ID 11742766<br>
+			<center class="timelinegpa"><strong>Corporate Finance Institute® (CFI)</strong></center>
+			</div>
+		</div>
+	</li>	
+	
+	
+		<!-- EXCEL CRASH COURSE -->
+	<li>
+	<a href="https://www.credential.net/11747366" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.credential.net/11747366','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/cfi.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">EXCEL CRASH COURSE</span>
+				<span class="time-wrapper"><span class="time">Jul 2018</span></span>
+			</div>
+			<div class="desc">Credential ID 11747366<br>
+			<center class="timelinegpa"><strong>Corporate Finance Institute® (CFI)</strong></center> 
+			</div>
+		</div>
+	</li>
+	
+	
+	
+			<!-- THE DATA SCIENTIST’S TOOLBOX ON COURSERA -->
+	<li>
+	
+	<a href="https://www.coursera.org/account/accomplishments/verify/8JG4WCG9FL5D" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.coursera.org/account/accomplishments/verify/8JG4WCG9FL5D','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/johnshopkins.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">THE DATA SCIENTIST’S TOOLBOX ON COURSERA</span>
+				<span class="time-wrapper"><span class="time">Feb 2019</span></span>
+			</div>
+			<div class="desc">Credential ID 8JG4WCG9FL5D<br>
+			<center class="timelinegpa"><strong>Johns Hopkins Bloomberg School of Public Health</strong></center>
+			</div>
+		</div>
+	</li>	
+	
+	
+			<!-- R PROGRAMMING A-Z ON UDEMY -->
+	<li>
+	<a href="https://www.udemy.com/certificate/UC-1960TD2T/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.udemy.com/certificate/UC-1960TD2T/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/superdatascience.png"/></a>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">R PROGRAMMING A-Z ON UDEMY</span>
+				<span class="time-wrapper"><span class="time">May 2019</span></span>
+			</div>
+			<div class="desc">Credential ID UC-1960TD2T<br>
+			<center class="timelinegpa"><strong>SuperDataScience</strong></center> 
+			</div>
+		</div>
+	</li>
+	
+	
+				<!-- R PROGRAMMING ON COURSERA -->
+	<li>
+	
+	<a href="https://www.coursera.org/account/accomplishments/verify/AQ3B4XFDKCT9" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.coursera.org/account/accomplishments/verify/AQ3B4XFDKCT9','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/johnshopkins.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">R PROGRAMMING ON COURSERA</span>
+				<span class="time-wrapper"><span class="time">May 2019</span></span>
+			</div>
+			<div class="desc">Credential ID AQ3B4XFDKCT9<br>
+			<center class="timelinegpa"><strong>Johns Hopkins Bloomberg School of Public Health</strong></center>
+		</div>
+		</div>
+	</li>	
+	
+	
+				<!-- ADVANCED ANALYTICS IN R FOR DATA SCIENCE ON UDEMY -->
+	<li>
+	<a href="https://www.udemy.com/certificate/UC-4Q3OVXH1/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.udemy.com/certificate/UC-4Q3OVXH1/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">ADVANCED ANALYTICS IN R FOR DATA SCIENCE ON UDEMY</span>
+				<span class="time-wrapper"><span class="time">May 2019</span></span>
+			</div>
+			<div class="desc">Credential ID UC-4Q3OVXH1<br>
+			<center class="timelinegpa"><strong>SuperDataScience</strong></center> 
+			</div>
+		</div>
+	</li>
+	
+	
+					<!-- LINUX OPERATING SYSTEM FUNDAMENTALS ON UDEMY -->
+	<li>
+	
+	<a href="https://www.udemy.com/certificate/UC-KV0NUEC9/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.udemy.com/certificate/UC-KV0NUEC9/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/linuxacademy.png"/></a>
+	<br>
+	
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">LINUX OPERATING SYSTEM FUNDAMENTALS ON UDEMY</span>
+				<span class="time-wrapper"><span class="time"> May 2019</span></span>
+			</div>
+			<div class="desc">Credential ID UC-KV0NUEC9<br>
+			<center class="timelinegpa"><strong>Linux Academy</strong></center> 
+			</div>
+		</div>
+	</li>	
+	
+	
+					<!-- INTRODUCTION TO PROBABILITY AND DATA ON COURSERA -->
+	<li>
+	<a href="https://www.coursera.org/account/accomplishments/verify/MJ4VGVQKHELW" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.coursera.org/account/accomplishments/verify/MJ4VGVQKHELW','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/duke.png"/></a>
+	
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">INTRODUCTION TO PROBABILITY AND DATA ON COURSERA</span>
+				<span class="time-wrapper"><span class="time">May 2019</span></span>
+			</div>
+			<div class="desc">Credential ID MJ4VGVQKHELW<br>
+			<center class="timelinegpa"><strong>Duke University</strong></center> 
+			</div>
+		</div>
+	</li>
 	
 	
 
