@@ -917,7 +917,7 @@ body {
 	
 			<!--SPATIAL ANALYSIS -->
 		<li>
-	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/costanalysis.png"/></a>
+	<a href="https://www.verianaliz.net/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/spatial.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
