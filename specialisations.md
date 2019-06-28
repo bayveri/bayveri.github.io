@@ -784,7 +784,7 @@ body {
 	
 	<!-- MATHEMATICS -->
 	<li>
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
+	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/mathematics.png"/></a>
 	<br>
 	
 		<div class="direction-l">
@@ -836,7 +836,7 @@ body {
 				<span class="flag">FINANCIAL STATEMENT ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">2016 - present</span></span>
 			</div>
-			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/econometrics_level.png"/></div>
+			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/financialstatement_level.png"/></div>
 		</div>
 	</li>
 	
