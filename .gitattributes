@@ -28,7 +28,7 @@ Dockerfile text eol=lf
 # VSCode files
 *.json text eol=lf
 
-# General multimedia files
+# General multimedia files.
 *.jpg binary
 *.jpeg binary
 *.gif binary
