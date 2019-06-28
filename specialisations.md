@@ -161,7 +161,7 @@ body {
   display: inline;
   
   line-height: 1em;
-  font-size: 0.9em;
+  font-size: 1.1em;
   color: rgb(250,80,80);
   vertical-align: middle;
 }
@@ -347,10 +347,10 @@ body {
 			<div class="flag-wrapper">
 				<span class="flag">R</span>
 
-				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 	
 			</div>
-			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/r_level.png"/> </div>
+			<div class="desc"> <img class="levelimage" src="/img/r_level.png"/> </div>
 		</div>
 	</li>
   
@@ -365,9 +365,9 @@ body {
 			<div class="flag-wrapper">
 				<span class="flag">PYTHON</span>
 				
-				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
-			<div class="desc"> Level: Intermediate <br><img class="levelimage" src="/img/python_level.png"/> </div>
+			<div class="desc"> <img class="levelimage" src="/img/python_level.png"/> </div>
 		</div>
 	</li>
   
@@ -379,9 +379,9 @@ body {
 	<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">SQL </span>
-				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
-			<div class="desc">Level: Intermediate <br><img class="levelimage" src="/img/sql_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/sql_level.png"/></div>
 		</div>
 	</li>
 
@@ -393,9 +393,9 @@ body {
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">HTML</span>
-				<span class="time-wrapper"><span class="time">2011 - present</span></span>
+				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/html_level.png"/> </div>
+			<div class="desc"><img class="levelimage" src="/img/html_level.png"/> </div>
 		</div>
 	</li>
  
@@ -407,9 +407,9 @@ body {
 	<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">MARKDOWN </span>
-				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+				<span class="time-wrapper"><span class="time">Level: Advanced </span></span>
 			</div>
-			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/markdown_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/markdown_level.png"/></div>
 		</div>
 	</li>
  
@@ -422,9 +422,9 @@ body {
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">CSS</span>
-				<span class="time-wrapper"><span class="time">2017 - present</span></span>
+				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
-			<div class="desc">Level: Advanced <br><img class="levelimage" src="/img/css_level.png"/></div>
+			<div class="desc"><img class="levelimage" src="/img/css_level.png"/></div>
 		</div>
 	</li>
  
@@ -949,14 +949,14 @@ body {
 	
 	<!-- RUSSIAN -->
 	<li>
-	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
+	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/russian.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">RUSSIAN</span>
 				<span class="time-wrapper"><span class="time">2017 - present</span></span>
 			</div>
-			<div class="desc">Level: Elementory <br><img class="levelimage" src="/img/spanish_level.png"/></div>
+			<div class="desc">Level: Elementary <br><img class="levelimage" src="/img/russian_level.png"/></div>
 		</div>
 	</li>
 	
