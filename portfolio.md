@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-subtitle: These are the projects completed by me.
+title: Publications
+subtitle: Published Academic Works. 
 ---
 
 <html lang="en" >
@@ -339,16 +339,16 @@ body {
 
 	<!-- Item 1 -->
 <li>
-	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/verianaliz.png"/></a>
+	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">VeriAnaliz.net - Founder</span>
+				<span class="flag">Coming Soon</span>
 
-				<span class="time-wrapper"><span class="time">2019 - present</span></span>
+				<span class="time-wrapper"><span class="time">2019</span></span>
 	
 			</div>
-			<div class="desc">I have just started the project that will serve everybody who need data science consulting in Turkey. It is and will be for free. Every tool used in this project is open source, from the operating system I use to multimedia tools like graphics, data visualisation etc. For more information click the Mr.Data (bayveri in turkish) above. For whom it may interested in my works around the world please follow us. I will start a smilar project in English as soon as possible.</div>
+			<div class="desc"></div>
 		</div>
 	</li>
   
@@ -356,122 +356,20 @@ body {
 	<!-- Item 2 -->
 	<li>
 	
-	<a href="http://www.egefinansdernegi.org/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.egefinansdernegi.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/efd.png"/></a>
+	<a href="https://verianaliz.net" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	<br>
 		<div class="direction-l">
 		
 			<div class="flag-wrapper">
-				<span class="flag">EFD - IT Consultant</span>
+				<span class="flag">Coming Soon</span>
 				
-				<span class="time-wrapper"><span class="time">2018 - present</span></span>
+				<span class="time-wrapper"><span class="time">2019</span></span>
 			</div>
-			<div class="desc"> EFD stands for Aegean Finance Association. I am consulting web development, web design, graphic design, and data analytics processes of the association.</div>
+			<div class="desc"> </div>
 		</div>
 	</li>
   
-	<!-- Item 3 -->
-	<li>
-	
-	<a href="https://ege.edu.tr/tr-0/anasayfa.html" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://ege.edu.tr/tr-0/anasayfa.html','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/ege.png"/></a>
 
-	<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">Ege University - Scholar </span>
-				<span class="time-wrapper"><span class="time">2018 - present</span></span>
-			</div>
-			<div class="desc">I am a PhD Candidate in Economics. I am awarded scholarship on Multidisciplinary studies by Ege University. I work part-time as Research Asistant , Web Developer and Data Analyst.</div>
-		</div>
-	</li>
-
-		<!-- Item 4 -->
-	<li>
-	  
-	  <a href="https://www.tubitak.gov.tr/" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.tubitak.gov.tr/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/tübitak.png"/></a>
-	  <br>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">TÜBİTAK - Data Analyst</span>
-				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
-			</div>
-			<div class="desc">TÜBİTAK is The Scientific and Technological Research Council of Turkey. I was part of a research project related to competitiveness of the companies in Turkey funded by the council.  I used and improved my big data analytics skills that was building along with my latest finance job and personal interest.</div>
-		</div>
-	</li>
- 
-		<!-- Item 5 -->
-	<li>
-	
-	<a href="http://www.roca.com/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('http://www.roca.com/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/roca.png"/></a>
-	
-		<div class="direction-r">
-		
-			<div class="flag-wrapper">
-				<span class="flag">Roca - Finance Asistant</span>
-				<span class="time-wrapper"><span class="time">2017 - 2018</span></span>
-			</div>
-			<div class="desc">I was responsible for and part of whole finance process of an international production Company. Those includes: bookkeeping, observing value chain of the Company, derive reports using adhoc cost accounting methods,  bridging manually between Turkish accounting system and Spanish IFRS, reporting monthly financial position of the company to the manager and Headquarter, reporting required information to the Turkish Institutions such as Central Bank and TÜİK.
-			</div>
-		</div>
-	</li>
-	
-			<!-- Item 6 -->
-	<li>
-	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
-	<br>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">Anadolu Univ.- PhD</span>
-				<span class="time-wrapper"><span class="time">2016 - 2018</span></span>
-			</div>
-			<div class="desc">I started my PhD in Economics at Anadolu University. At this time, I took classes related to Data Analytics from Department of Computer Engineering. I continue my academic career at Ege University as I have beed awarded scholarship.</div>
-		</div>
-	</li>
-	
-			<!-- Item 7 -->
-	<li>
-	
-	<a href="https://www.atilim.edu.tr/tr" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.atilim.edu.tr/tr','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/atılım.png"/></a>
-	
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">Atılım University</span>
-				<span class="time-wrapper"><span class="time">2015 - 2016</span></span>
-			</div>
-			<div class="desc">I took advanced English courses with a full scholarship for one year.</div>
-		</div>
-	</li>
-	
-				<!-- Item 8 -->
-	<li>
-	
-	<a href="https://www.anadolu.edu.tr/en" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.anadolu.edu.tr/en','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/anadolu.png"/></a>
-	<br>
-	
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">Anadolu Univ. - H.B.Econ.</span>
-				<span class="time-wrapper"><span class="time">2011 - 2015</span></span>
-			</div>
-			<div class="desc"> I started studying Economics second year of my ongoing education in Biology. After the gap year, I took at the beginning of the university, I have already started reading on Economics. I have studied both subject at the same time and I granted honor degree both of them.<br>
-			<center class="timelinegpa"><strong>GPA:3.55</strong></center></div>
-		</div>
-	</li>
-	
-				<!-- Item 9 -->
-	<li>
-	<a href="https://www.hacettepe.edu.tr/english/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.hacettepe.edu.tr/english/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/hacettepe.png"/></a>
-	
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">Hacettepe Univ. - Hons.B.Sc.</span>
-				<span class="time-wrapper"><span class="time">2009 - 2015</span></span>
-			</div>
-			<div class="desc">I studied Biology. Established Biotechnology Research Student Club with friends. Graduated with first class honour degree (as being a Biologist, have fulfilled my childhood dream). At the same time majored in Economics from Anadolu University.<br>
-			<center class="timelinegpa"><strong>GPA:3.30</strong></center> 
-			</div>
-		</div>
-	</li>
-	
 </ul>
   
   
