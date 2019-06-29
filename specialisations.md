@@ -1004,7 +1004,7 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">READING FINANCIAL STATEMENTS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<span class="flag">&nbsp;&nbsp;READING FINANCIAL STATEMENTS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 				<span class="time-wrapper"><span class="time">Jul 2018</span></span>
 			</div>
 			<div class="desc"> Credential ID 11742766<br>
