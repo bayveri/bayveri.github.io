@@ -589,6 +589,7 @@ body {
 	
 	<!-- GIMP -->	
 	<li>
+	
 	<a href="https://www.gimp.org/" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.gimp.org/','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/gimp.png"/></a>
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -606,7 +607,7 @@ body {
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">ADOBE ILLUSTRATOR</span>
+				<span class="flag">ILLUSTRATOR</span>
 				<span class="time-wrapper"><span class="time">Level: Pre-Intermediate</span></span>
 			</div>
 			<div class="desc"><img class="levelimage" src="/img/Pre-Intermediate.png"/></div>
@@ -819,7 +820,7 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">DATA STRUCTURE AND ALGORITHMS</span>
+				<span class="flag">DATA STR. AND ALGORITHMS</span>
 				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
 			<div class="desc"> <img class="levelimage" src="/img/Intermediate.png"/></div>
@@ -921,7 +922,7 @@ body {
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">SPATIAL ANALYSIS</span>
+				<span class="flag">GIS</span>
 				<span class="time-wrapper"><span class="time">Level: Upper-Intermediate</span></span>
 			</div>
 			<div class="desc"><img class="levelimage" src="/img/Upper-Intermediate.png"/></div>
@@ -1038,7 +1039,7 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">THE DATA SCIENTIST’S TOOLBOX</span>
+				<span class="flag">DATA SCIENTIST’S TOOLBOX</span>
 				<span class="time-wrapper"><span class="time">Feb 2019</span></span>
 			</div>
 			<div class="desc">on COURSERA <br>Credential ID 8JG4WCG9FL5D<br>
@@ -1087,7 +1088,7 @@ body {
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">ADVANCED R FOR DATA SCIENCE</span>
+				<span class="flag">ADVANCED R</span>
 				<span class="time-wrapper"><span class="time">May 2019</span></span>
 			</div>
 			<div class="desc">on UDEMY <br> Credential ID UC-4Q3OVXH1<br>
