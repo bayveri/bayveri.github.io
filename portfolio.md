@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-subtitle: Published Academic Works. 
+title: Portfolio
+subtitle: Some Works From Us. 
 ---
 
 <html lang="en" >
