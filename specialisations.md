@@ -833,7 +833,7 @@ body {
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">FINANCIAL STATEMENT ANALYSIS</span>
+				<span class="flag">RATIO ANALYSIS</span>
 				<span class="time-wrapper"><span class="time">Level: Advanced</span></span>
 			</div>
 			<div class="desc"><img class="levelimage" src="/img/Advanced.png"/></div>
