@@ -820,7 +820,7 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">DATA STR. AND ALGORITHMS</span>
+				<span class="flag">DATA STRUCTER AND ALGORITHMS&nbsp;&nbsp;</span>
 				<span class="time-wrapper"><span class="time">Level: Intermediate</span></span>
 			</div>
 			<div class="desc"> <img class="levelimage" src="/img/Intermediate.png"/></div>
@@ -1004,7 +1004,7 @@ body {
 	
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">READING FINANCIAL STATEMENTS</span>
+				<span class="flag">READING FINANCIAL STATEMENTS&nbsp;</span>
 				<span class="time-wrapper"><span class="time">Jul 2018</span></span>
 			</div>
 			<div class="desc"> Credential ID 11742766<br>
