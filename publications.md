@@ -345,14 +345,6 @@ stroke-dashoffset:0
 }
 }
 
-.progress {
-  position: relative;
-  display: inline-block;
-  padding: 0;
-  text-align: center;
-}
-
-
 
 .progress>li {
   display: inline-block;
@@ -410,7 +402,7 @@ stroke-dashoffset:0
 }
  
  
- 
+
 
  </style>
 
