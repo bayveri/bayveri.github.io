@@ -13,21 +13,10 @@ subtitle: Some Works From Us.
 
 <style type="text/css" media="screen">
 
-html,body {
-  font-family: 'Raleway', sans-serif;
-  padding: 0 2em;
-  font-size: 18px;
-  text-align:center;
-}
 
-
-p {
-  margin: 1.5em 0;
-  color: #888;
-}
 
 .thumbnail {
-  max-width: 40%;
+  max-width: 20%;
 }
 
 .italic { font-style: italic; }
@@ -54,7 +43,7 @@ p {
 	/** Pad the lightbox image */
 	max-width: 90%;
 	max-height: 80%;
-	margin-top: 10%;
+	margin-top: 8%;
 }
 
 .lightbox:target {
@@ -68,9 +57,6 @@ p {
  </style>
 
 
-<!-- Lightbox usage markup -->
-<link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="text/css" />
-
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
   <img src="http://insomnia.rest/images/screens/main.png" class="thumbnail">
@@ -80,8 +66,5 @@ p {
 <a href="#_" class="lightbox" id="img1">
   <img src="http://insomnia.rest/images/screens/main.png">
 </a>
-
-<p class="italic small">Image credit: Me</p>
-
 	
 </html>
