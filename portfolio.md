@@ -324,20 +324,28 @@ body {
  
                                                           /*lightbox*/
  
- /* Styles the thumbnail */
+ .lightboxmain{
+ padding: 0;
+margin: 0;
+text-align: center;
+z-index: 20;
+}
+ 
+ 
+/* Styles the thumbnail */
 
 a.lightbox img {
-height: 70px;
+height: 150px;
 border: 3px solid white;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
-margin: auto;
+margin: 94px 20px 20px 20px;
 }
-
 
 /* Styles the lightbox, removes it from sight and adds the fade-in transition */
 
 .lightbox-target {
 position: fixed;
+top: -100%;
 width: 100%;
 background: rgba(0,0,0,.7);
 width: 100%;
@@ -353,7 +361,7 @@ overflow: hidden;
 
 .lightbox-target img {
 margin: auto;
-position: relative;
+position: absolute;
 top: 0;
 left:0;
 right:0;
@@ -379,7 +387,7 @@ box-sizing: border-box;
 background: white;
 color: black;
 text-decoration: none;
-position: relative;
+position: absolute;
 top: -80px;
 right: 0;
 -webkit-transition: .5s ease-in-out;
@@ -396,8 +404,8 @@ display: block;
 height: 30px;
 width: 1px;
 background: black;
-position: relative;
-left: 26px;	
+position: absolute;
+left: 26px;
 top:10px;
 -webkit-transform:rotate(45deg);
 -moz-transform:rotate(45deg);
@@ -413,7 +421,7 @@ display: block;
 height: 30px;
 width: 1px;
 background: black;
-position: relative;
+position: absolute;
 left: 26px;
 top:10px;
 -webkit-transform:rotate(-45deg);
@@ -456,7 +464,7 @@ top: 0px;
 
 	<!-- Item 1 -->
 <li>
-
+<div class="lightboxmain>
 <a class="lightbox" href="#dog">
    <img src="/img/coming.png"/>
 </a> 
@@ -464,7 +472,7 @@ top: 0px;
    <img src="/img/coming.png"/>
    <a class="lightbox-close" href="#"></a>
 </div>
-
+</div>
 
 		<div class="direction-r">
 			<div class="flag-wrapper">
