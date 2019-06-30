@@ -358,27 +358,25 @@ body {
   top: 12.5px;
   text-align: center;
   border-radius: 50%;
-  background-color: white;
 }
 
-.progress-bar .background { background-color: #b3cef6; }
+
 
 .progress-bar .rotate {
   clip: rect(0 100px 200px 0);
-  background-color: #4b86db;
+  background-color: transparent;
 }
 
 .progress-bar .left {
   clip: rect(0 100px 200px 0);
   opacity: 1;
-  background-color: #b3cef6;
 }
 
 .progress-bar .right {
   clip: rect(0 100px 200px 0);
   transform: rotate(180deg);
   opacity: 0;
-  background-color: #4b86db;
+  background-color: transparent;
 }
  @keyframes 
 toggle {  0% {
