@@ -429,7 +429,7 @@ stroke-dashoffset:0
 	
 			</div>
 			<div class="desc"> 
-			
+<ul class="progress">			
   <li data-name="Level" data-percent="100%"> <svg viewBox="-10 -10 220 220">
     <g fill="none" stroke-width="20" transform="translate(100,100)">
       <path d="M 0,-100 A 100,100 0 0,1 86.6,-50" stroke="url(#cl1)"/>
@@ -441,7 +441,7 @@ stroke-dashoffset:0
     </g>
     </svg> <svg viewBox="-10 -10 220 220">
     <path d="M200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 0,44.771525 0,100 C0,155.228475 44.771525,200 100,200 C155.228475,200 200,155.228475 200,100 Z" stroke-dashoffset="630"></path>
-    </svg> </li>
+    </svg> </li></ul>
     </div>
 		</div>
 	</li>
