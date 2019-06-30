@@ -348,8 +348,11 @@ stroke-dashoffset:0
 
 .progress{
   position: relative;
+  display: inline-block;
+  padding: 0;
   text-align: center;
   height: auto;
+  z-index: 999;
 }
 
 .progress>li {
