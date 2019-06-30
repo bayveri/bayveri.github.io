@@ -464,7 +464,7 @@ top: 0px;
 
 	<!-- Item 1 -->
 <li>
-<div class="lightboxmain>
+<div class="lightboxmain">
 <a class="lightbox" href="#dog">
    <img src="/img/coming.png"/>
 </a> 
