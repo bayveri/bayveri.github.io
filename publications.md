@@ -348,8 +348,6 @@ stroke-dashoffset:0
 
 .progress{
   position: relative;
-  display: inline-block;
-  padding: 0;
   text-align: center;
   height: auto;
 }
@@ -360,7 +358,7 @@ stroke-dashoffset:0
   text-align: center;
   color: #93A2AC;
   font-family: Lato;
-  font-weight: 100;
+  font-weight: 400;
   margin: 2rem;
 }
 
