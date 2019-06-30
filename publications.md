@@ -359,7 +359,7 @@ stroke-dashoffset:0
   display: inline-block;
   position: relative;
   text-align: center;
-  color: #93A2AC;
+  color: green;
   font-family: Lato;
   font-weight: 400;
   margin: 2rem;
