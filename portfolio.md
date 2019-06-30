@@ -327,7 +327,7 @@ body {
  /* Styles the thumbnail */
 
 a.lightbox img {
-height: 700px;
+height: 70px;
 border: 3px solid white;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
 margin: auto;
