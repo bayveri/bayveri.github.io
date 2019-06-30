@@ -301,7 +301,7 @@ body {
 }
  
  	/*hover effect*/
- a:hover img.timelineimage {
+ a:hover .thumbnail {
 	opacity: 1;
 	-webkit-animation: flash 1.5s;
 	animation: flash 1.5s;
@@ -326,6 +326,7 @@ body {
 
 .thumbnail {
   max-width: 20%;
+  margin: auto 20%;
 }
 
 .italic { font-style: italic; }
