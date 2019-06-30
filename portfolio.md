@@ -385,12 +385,12 @@ body {
 
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/install-steps.gif" class="thumbnail">
+  <img src="/img/install-steps.gif" class="thumbnail"> <!-- image size: 1090x640 px -->
 </a>
 
 <!-- lightbox container hidden with CSS -->
 <a href="#_" class="lightbox" id="img1">
-  <img src="/img/install-steps.gif">
+  <img src="/img/install-steps.gif"> <!-- image size: 1090x640 px -->
 </a>
 	
 		<div class="direction-r">
