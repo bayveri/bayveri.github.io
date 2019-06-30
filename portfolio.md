@@ -327,11 +327,10 @@ body {
  /* Styles the thumbnail */
 
 a.lightbox img {
-height: 150px;
+height: 700px;
 border: 3px solid white;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
-margin: 94px 20px 20px 20px;
-z-index: 20;
+margin: auto;
 }
 
 
@@ -339,7 +338,6 @@ z-index: 20;
 
 .lightbox-target {
 position: fixed;
-top: -100%;
 width: 100%;
 background: rgba(0,0,0,.7);
 width: 100%;
@@ -355,7 +353,7 @@ overflow: hidden;
 
 .lightbox-target img {
 margin: auto;
-position: absolute;
+position: relative;
 top: 0;
 left:0;
 right:0;
@@ -381,7 +379,7 @@ box-sizing: border-box;
 background: white;
 color: black;
 text-decoration: none;
-position: absolute;
+position: relative;
 top: -80px;
 right: 0;
 -webkit-transition: .5s ease-in-out;
@@ -398,7 +396,7 @@ display: block;
 height: 30px;
 width: 1px;
 background: black;
-position: absolute;
+position: relative;
 left: 26px;	
 top:10px;
 -webkit-transform:rotate(45deg);
@@ -415,7 +413,7 @@ display: block;
 height: 30px;
 width: 1px;
 background: black;
-position: absolute;
+position: relative;
 left: 26px;
 top:10px;
 -webkit-transform:rotate(-45deg);
@@ -452,23 +450,21 @@ top: 0px;
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
 
 
-	<a class="lightbox" href="#dog">
-   <img src="/img/coming.png"/>
-</a> 
-<div class="lightbox-target" id="dog">
-   <img src="/img/coming.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-	
-
-
-
 <!-- The Timeline -->
 
 <ul class="timeline">
 
 	<!-- Item 1 -->
 <li>
+
+<a class="lightbox" href="#dog">
+   <img src="/img/coming.png"/>
+</a> 
+<div class="lightbox-target" id="dog">
+   <img src="/img/coming.png"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
+
 
 		<div class="direction-r">
 			<div class="flag-wrapper">
