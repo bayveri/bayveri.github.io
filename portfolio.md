@@ -322,7 +322,7 @@ body {
 	}
 }
  
-                                                          /*jightbox*/
+                                                          /*lightbox*/
  
  /* Styles the thumbnail */
 
@@ -330,7 +330,9 @@ a.lightbox img {
 height: 150px;
 border: 3px solid white;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+margin: 94px 20px 20px 20px;
 }
+
 
 /* Styles the lightbox, removes it from sight and adds the fade-in transition */
 
@@ -396,7 +398,7 @@ height: 30px;
 width: 1px;
 background: black;
 position: absolute;
-left: 26px;
+left: 26px;	
 top:10px;
 -webkit-transform:rotate(45deg);
 -moz-transform:rotate(45deg);
@@ -447,13 +449,8 @@ top: 0px;
 <body>
 
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
-  
-<!-- The Timeline -->
 
-<ul class="timeline">
 
-	<!-- Item 1 -->
-<li>
 	<a class="lightbox" href="#dog">
    <img src="/img/coming.png"/>
 </a> 
@@ -462,6 +459,16 @@ top: 0px;
    <a class="lightbox-close" href="#"></a>
 </div>
 	
+
+
+
+<!-- The Timeline -->
+
+<ul class="timeline">
+
+	<!-- Item 1 -->
+<li>
+
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Coming Soon</span>
