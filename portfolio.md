@@ -326,7 +326,7 @@ body {
 
 .thumbnail {
   max-width: 20%;
-  margin: auto 20%;
+  margin: auto 60%;
 }
 
 .italic { font-style: italic; }
@@ -385,12 +385,12 @@ body {
 
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/coming.png" class="thumbnail">
+  <img src="/img/install-steps.gif" class="thumbnail">
 </a>
 
 <!-- lightbox container hidden with CSS -->
 <a href="#_" class="lightbox" id="img1">
-  <img src="/img/coming.png">
+  <img src="/img/install-steps.gif">
 </a>
 	
 		<div class="direction-r">
