@@ -325,7 +325,7 @@ body {
                                                           /*lightbox*/
  
  .lightboxmain{
- padding: 0;
+padding: 0;
 margin: 0;
 text-align: center;
 z-index: 20;
@@ -345,10 +345,10 @@ margin: 94px 20px 20px 20px;
 
 .lightbox-target {
 position: fixed;
-top: -100%;
-width: 100%;
+top: 100px;
+width: 70%;
 background: rgba(0,0,0,.7);
-width: 100%;
+width: 700%;
 opacity: 0;
 -webkit-transition: opacity .5s ease-in-out;
 -moz-transition: opacity .5s ease-in-out;
@@ -362,7 +362,7 @@ overflow: hidden;
 .lightbox-target img {
 margin: auto;
 position: absolute;
-top: 0;
+top: 100px;
 left:0;
 right:0;
 bottom: 0;
@@ -388,7 +388,7 @@ background: white;
 color: black;
 text-decoration: none;
 position: absolute;
-top: -80px;
+top: 100px;
 right: 0;
 -webkit-transition: .5s ease-in-out;
 -moz-transition: .5s ease-in-out;
@@ -406,8 +406,7 @@ width: 1px;
 background: black;
 position: absolute;
 left: 26px;
-right:26px;
-top:10px;
+top:100px;
 -webkit-transform:rotate(45deg);
 -moz-transform:rotate(45deg);
 -o-transform:rotate(45deg);
@@ -424,8 +423,7 @@ width: 1px;
 background: black;
 position: absolute;
 left: 26px;
-right:26px;
-top:10px;
+top:100px;
 -webkit-transform:rotate(-45deg);
 -moz-transform:rotate(-45deg);
 -o-transform:rotate(-45deg);
