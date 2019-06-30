@@ -335,7 +335,7 @@ z-index: 20;
 /* Styles the thumbnail */
 
 a.lightbox img {
-height: 150px;
+height: 70px;
 border: 3px solid white;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
 margin: 94px 20px 20px 20px;
@@ -406,6 +406,7 @@ width: 1px;
 background: black;
 position: absolute;
 left: 26px;
+right:26px;
 top:10px;
 -webkit-transform:rotate(45deg);
 -moz-transform:rotate(45deg);
@@ -423,6 +424,7 @@ width: 1px;
 background: black;
 position: absolute;
 left: 26px;
+right:26px;
 top:10px;
 -webkit-transform:rotate(-45deg);
 -moz-transform:rotate(-45deg);
