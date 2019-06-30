@@ -17,16 +17,9 @@ html,body {
   font-family: 'Raleway', sans-serif;
   padding: 0 2em;
   font-size: 18px;
-  background: #222;
-  color: #aaa;
   text-align:center;
 }
 
-h1 {
-  font-size: 3em;
-  font-weight: 200;
-  margin: 0.5em 0 0.2em 0;
-}
 
 p {
   margin: 1.5em 0;
@@ -61,7 +54,7 @@ p {
 	/** Pad the lightbox image */
 	max-width: 90%;
 	max-height: 80%;
-	margin-top: 2%;
+	margin-top: 10%;
 }
 
 .lightbox:target {
@@ -77,8 +70,6 @@ p {
 
 <!-- Lightbox usage markup -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="text/css" />
-<h1>Pure CSS Lightbox</h1>
-<p>Click the thumbnail below to activate the lightbox</p>
 
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
