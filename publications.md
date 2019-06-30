@@ -23,6 +23,10 @@ body {
   line-height: 1.8em;
 }
 
+
+
+
+
 /* ================ The Timeline ================ */
 
 .timeline {
@@ -324,7 +328,74 @@ body {
  
  
  
+ 
+ 
+ 
+ /*progress bar*/
+
+
+.progress-bar {
+  position: relative;
+  height: 200px;
+  width: 200px;
+}
+
+.progress-bar div {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.progress-bar div span {
+  position: absolute;
+  font-family: Arial;
+  font-size: 25px;
+  line-height: 175px;
+  height: 175px;
+  width: 175px;
+  left: 12.5px;
+  top: 12.5px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.progress-bar .background { background-color: #b3cef6; }
+
+.progress-bar .rotate {
+  clip: rect(0 100px 200px 0);
+  background-color: #4b86db;
+}
+
+.progress-bar .left {
+  clip: rect(0 100px 200px 0);
+  opacity: 1;
+  background-color: #b3cef6;
+}
+
+.progress-bar .right {
+  clip: rect(0 100px 200px 0);
+  transform: rotate(180deg);
+  opacity: 0;
+  background-color: #4b86db;
+}
+ @keyframes 
+toggle {  0% {
+ opacity: 0;
+}
+ 100% {
+ opacity: 1;
+}
+}
+ 
+ 
+ 
+ 
  </style>
+
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script src="/js/jQuery-plugin-progressbar.js"></script>
 
   
 </head>
@@ -348,7 +419,8 @@ body {
 				<span class="time-wrapper"><span class="time">2019</span></span>
 	
 			</div>
-			<div class="desc"></div>
+			<div class="desc">
+			<div class="progress-bar position" data-percent="60" data-duration="1000" data-color="#ccc,green"></div> </div>
 		</div>
 	</li>
   
@@ -372,7 +444,9 @@ body {
 
 </ul>
   
-  
+<script>
+$(".progress-bar").loading();
+	</script>  
 
 </body>
 
