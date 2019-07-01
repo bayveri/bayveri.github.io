@@ -353,7 +353,7 @@ body {
 	
 			</div>
 			<div class="desc"> 
-				<div class="c100 p50 green" style="margin: auto 50%">
+				<div class="c100 p50 green" style="margin: auto 20%">
                     			 <span>50%</span>
                    			 <div class="slice">
                       			 <div class="bar"></div>
@@ -378,7 +378,7 @@ body {
 				<span class="time-wrapper"><span class="time">2019</span></span>
 			</div>
 			<div class="desc"> 
-			<div class="c100 p75 green">
+			<div class="c100 p75 green"style="margin: auto 80%">
                     			 <span>75%</span>
                    			 <div class="slice">
                       			 <div class="bar"></div>
