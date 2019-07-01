@@ -329,7 +329,6 @@ body {
              
  </style>
 
- <link rel="stylesheet" href="/css/circle.css">
   
 </head>
 
@@ -348,16 +347,9 @@ body {
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Coming Soon</span>
-
 				<span class="time-wrapper"><span class="time">2019</span></span>
-	
 			</div>
-			
-				<div class="c100 p50 green">
-                    			 <span>50%</span>
-                   			 <div class="slice">
-                      			 <div class="bar"></div>
-                       			 <div class="fill"></div>
+			<div class="desc"> </div>
                     		 </div>
                			 </div>
 			
@@ -378,11 +370,6 @@ body {
 				<span class="time-wrapper"><span class="time">2019</span></span>
 			</div>
 			<div class="desc"> 
-			<div class="c100 p75 green" style="margin: auto 50%">
-                    			 <span>75%</span>
-                   			 <div class="slice">
-                      			 <div class="bar"></div>
-                       			 <div class="fill"></div>
                     		 </div>
                			 </div>
 			</div>
