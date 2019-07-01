@@ -353,13 +353,13 @@ body {
 	
 			</div>
 			<div class="desc"> 
-				<center><div class="c100 p50 green">
+				<div class="c100 p50 green" style="margin: auto 50%">
                     			 <span>50%</span>
                    			 <div class="slice">
                       			 <div class="bar"></div>
                        			 <div class="fill"></div>
                     		 </div>
-               			 </div></center>
+               			 </div>
 			</div>
 		</div>
 	</li>
