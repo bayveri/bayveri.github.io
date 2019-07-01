@@ -352,7 +352,7 @@ body {
 				<span class="time-wrapper"><span class="time">2019</span></span>
 	
 			</div>
-			<div class="desc"> 
+			
 				<div class="c100 p50 green">
                     			 <span>50%</span>
                    			 <div class="slice">
@@ -360,7 +360,7 @@ body {
                        			 <div class="fill"></div>
                     		 </div>
                			 </div>
-			</div>
+			
 		</div>
 	</li>
   
