@@ -377,7 +377,15 @@ body {
 				
 				<span class="time-wrapper"><span class="time">2019</span></span>
 			</div>
-			<div class="desc"> </div>
+			<div class="desc"> 
+			<div class="c100 p75 green">
+                    			 <span>50%</span>
+                   			 <div class="slice">
+                      			 <div class="bar"></div>
+                       			 <div class="fill"></div>
+                    		 </div>
+               			 </div>
+			</div>
 		</div>
 	</li>
   
