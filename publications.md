@@ -350,7 +350,7 @@ body {
 				<span class="time-wrapper"><span class="time">2019</span></span>
 			</div>
 			<div class="desc"> </div>
-                    		 </div>
+
                			 </div>
 			
 		</div>
@@ -370,7 +370,7 @@ body {
 				<span class="time-wrapper"><span class="time">2019</span></span>
 			</div>
 			<div class="desc"> 
-                    		 </div>
+
                			 </div>
 			</div>
 		</div>
