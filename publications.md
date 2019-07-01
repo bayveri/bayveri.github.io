@@ -125,7 +125,7 @@ body {
   margin-top: -10px;
   background: #fff;
   border-radius: 10px;
-  border: 4px solid rgb(255,80,80);
+  border: 4px solid limegreen;
   z-index: 10;
 }
 
@@ -166,7 +166,7 @@ body {
   
   line-height: 1em;
   font-size: 0.9em;
-  color: rgb(250,80,80);
+  color: limegreen;
   vertical-align: middle;
 }
 
@@ -238,7 +238,7 @@ body {
 	margin-left: -9px;
 	background: #fff;
 	border-radius: 10px;
-	border: 4px solid rgb(255,80,80);
+	border: 4px solid limegreen;
 	z-index: 10;
 }
 
