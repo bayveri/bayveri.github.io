@@ -368,7 +368,7 @@ body {
 	<!-- Item 2 -->
 	<li>
 	
-	<a href="https://verianaliz.net" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
+	<a href="https://verianaliz.net" style="margin: auto 10%" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	<br>
 		<div class="direction-l">
 		
@@ -378,7 +378,7 @@ body {
 				<span class="time-wrapper"><span class="time">2019</span></span>
 			</div>
 			<div class="desc"> 
-			<div class="c100 p75 green"style="margin: auto 80%">
+			<div class="c100 p75 green" style="margin: auto 90%">
                     			 <span>75%</span>
                    			 <div class="slice">
                       			 <div class="bar"></div>
