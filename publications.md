@@ -379,7 +379,7 @@ body {
 			</div>
 			<div class="desc"> 
 			<div class="c100 p75 green">
-                    			 <span>50%</span>
+                    			 <span>75%</span>
                    			 <div class="slice">
                       			 <div class="bar"></div>
                        			 <div class="fill"></div>
