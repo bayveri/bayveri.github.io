@@ -385,7 +385,7 @@ body {
 
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/install-steps.gif" class="thumbnail"> <!-- image size: 1090x640 px -->
+  <img src="/img/coming.png" class="thumbnail"> <!-- image size: 1090x640 px -->
 </a>
 
 <!-- lightbox container hidden with CSS -->
@@ -408,7 +408,15 @@ body {
 	<!-- Item 2 -->
 	<li>
 	
-	<a href="https://verianaliz.net" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
+	<!-- thumbnail image wrapped in a link -->
+<a href="#img1">
+  <img src="/img/coming.png" class="thumbnail"> <!-- image size: 1090x640 px -->
+</a>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#_" class="lightbox" id="img1">
+  <img src="/img/install-steps.gif"> <!-- image size: 1090x640 px -->
+</a>
 	<br>
 		<div class="direction-l">
 		
