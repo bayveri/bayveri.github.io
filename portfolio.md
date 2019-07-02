@@ -390,7 +390,7 @@ body {
 
 <!-- lightbox container hidden with CSS -->
 <a href="#_" class="lightbox" id="img1">
-  <img src="/img/install-steps.gif"> <!-- image size: 1090x640 px -->
+  <img src="/img/coming.png"> <!-- image size: 1090x640 px -->
 </a>
 	
 		<div class="direction-r">
@@ -410,7 +410,7 @@ body {
 	
 	<!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/coming.png" class="thumbnail"> <!-- image size: 1090x640 px -->
+  <img src="/img/coming.png" class="thumbnail" style="margin: auto 20%"> <!-- image size: 1090x640 px -->
 </a>
 
 <!-- lightbox container hidden with CSS -->
