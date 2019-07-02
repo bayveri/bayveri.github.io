@@ -410,7 +410,7 @@ body {
 	
 	<!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/coming.png" class="thumbnail" style="margin: auto 30%"> <!-- image size: 1090x640 px -->
+  <img src="/img/coming.png" class="thumbnail" style="margin: auto 20%"> <!-- image size: 1090x640 px -->
 </a>
 
 <!-- lightbox container hidden with CSS -->
