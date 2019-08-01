@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Tolga Göğebakan
+title: Blog
 
 # Short description of your site
-description: BayVeri
+description: Tolga Göğebakan
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -68,10 +68,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "tolga@verianaliz.net"
+  email: "tolga@analist.org"
   facebook: bayverii
   github: bayveri
-  twitter: bayveri
+  twitter: tlgoa
 #  reddit: yourname
   linkedin: bayveri
 #  xing: yourname
@@ -80,7 +80,7 @@ social-network-links:
   instagram: bayverinet
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +905312783890
+  telephone: 00905312783890
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "BayVeri"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "BayVeri"  
 
 # --- Web Statistics Section --- #
 
@@ -248,6 +248,3 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
