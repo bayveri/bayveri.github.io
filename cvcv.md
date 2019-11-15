@@ -23,6 +23,11 @@ body {
   line-height: 1.8em;
 }
 
+.header-section+ .container .row{
+right:1% !important;
+left:1% !important;
+}
+
 /* ================ The Timeline ================ */
 
 .timeline {
