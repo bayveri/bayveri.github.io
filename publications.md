@@ -328,10 +328,6 @@ body {
 	}
 }
 
-.timelineimage{
-  max-width: 20%;
-  margin: auto 60%;
-} 
 
  </style>
 
@@ -347,8 +343,8 @@ body {
 <ul class="timeline">
 
 	<!-- Item 1 -->
-	<li>
-	<a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
+	<li style= width:"100%">
+	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -361,9 +357,9 @@ body {
   
   
 	<!-- Item 2 -->
-	<li>
+	<li style= width:"100%">
 	
-	<a href="https://verianaliz.net" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
+	<a href="https://verianaliz.net" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
