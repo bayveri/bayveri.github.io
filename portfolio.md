@@ -337,6 +337,7 @@ body {
 .lightbox {
 	/** Default lightbox to hidden */
 	display: none;
+	width: 100%
 
 	/** Position and style */
 	position: fixed;
