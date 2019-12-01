@@ -342,7 +342,7 @@ body {
 
 	<!-- Item 1 -->
 	<li>
-	<a href="https://verianaliz.net" style="padding: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
+	<a href="https://verianaliz.net" style="padding: auto 6px" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -357,7 +357,7 @@ body {
 	<!-- Item 2 -->
 	<li>
 	
-	<a href="https://verianaliz.net" style="padding: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
+	<a href="https://verianaliz.net" style="padding: auto 2px" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	<br>
 		<div class="direction-l">
 			<div class="flag-wrapper">
