@@ -326,7 +326,10 @@ body {
 	}
 }
  
-             
+.timeline{
+width:100% !important
+}
+
  </style>
 
   
