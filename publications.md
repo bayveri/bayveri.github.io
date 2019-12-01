@@ -343,7 +343,7 @@ body {
 <ul class="timeline">
 
 	<!-- Item 1 -->
-	<li style= width:"100%">
+	<li style= "width:100%">
 	<a href="https://verianaliz.net" style="margin: auto 60%" target="popup" rel="noopener noreferrer" onclick="window.open('https://www.verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	
 		<div class="direction-r">
@@ -357,7 +357,7 @@ body {
   
   
 	<!-- Item 2 -->
-	<li style= width:"100%">
+	<li style= "width:100%">
 	
 	<a href="https://verianaliz.net" style="margin: auto 20%" target="popup" rel="noopener noreferrer" onclick="window.open('https://verianaliz.net','popup','width=700,height=700'); return false;"><img class="timelineimage" src="/img/coming.png"/></a>
 	<br>
