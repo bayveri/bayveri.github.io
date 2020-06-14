@@ -22,7 +22,6 @@ common-js:
 <style type="text/css" media="screen">
 
 div.matrix { 
-  height: 200px; 
   margin: 0; 
   overflow: hidden;
   border-style: ridge;
@@ -35,6 +34,18 @@ div.matrix {
   background: #000; 
   border-radius: 0 0 100px 100px;
 }
+ 
+  
+@media only screen and (min-width: 900px) { div.matrix {
+  height: 200px;
+  }
+  }
+ 
+@media only screen and (max-width: 600px) { div.matrix {
+  height: 100px;
+  }
+  }
+  
 main.matrix {
   display: flex;
 }
